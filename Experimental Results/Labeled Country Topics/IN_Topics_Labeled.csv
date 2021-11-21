@@ -1,0 +1,401 @@
+Topic,Word,P,Label,CountryTopic
+1,country,0.014481461,Economic support measures,IN_1
+1,pandemic,0.012842922,Economic support measures,IN_1
+1,support,0.010380275,Economic support measures,IN_1
+1,need,0.008508293,Economic support measures,IN_1
+1,economic,0.008503489,Economic support measures,IN_1
+1,crisis,0.008474152,Economic support measures,IN_1
+1,announce,0.007972357,Economic support measures,IN_1
+1,measure,0.007654253,Economic support measures,IN_1
+1,economy,0.006960805,Economic support measures,IN_1
+1,help,0.006807145,Economic support measures,IN_1
+1,situation,0.006796424,Economic support measures,IN_1
+1,plan,0.006462043,Economic support measures,IN_1
+1,statement,0.006432632,Economic support measures,IN_1
+1,meeting,0.00623261,Economic support measures,IN_1
+1,global,0.00578578,Economic support measures,IN_1
+1,add,0.005438735,Economic support measures,IN_1
+1,read,0.005410087,Economic support measures,IN_1
+1,sector,0.005344076,Economic support measures,IN_1
+1,step,0.004862104,Economic support measures,IN_1
+1,hold,0.004858409,Economic support measures,IN_1
+2,cent,0.042633913,Decline in economic growth,IN_2
+2,year,0.036321104,Decline in economic growth,IN_2
+2,percent,0.01741047,Decline in economic growth,IN_2
+2,growth,0.016768888,Decline in economic growth,IN_2
+2,quarter,0.014661669,Decline in economic growth,IN_2
+2,expect,0.01386153,Decline in economic growth,IN_2
+2,impact,0.012737147,Decline in economic growth,IN_2
+2,revenue,0.012418723,Decline in economic growth,IN_2
+2,decline,0.010824046,Decline in economic growth,IN_2
+2,report,0.010620582,Decline in economic growth,IN_2
+2,month,0.010200608,Decline in economic growth,IN_2
+2,sale,0.008851708,Decline in economic growth,IN_2
+2,estimate,0.008604252,Decline in economic growth,IN_2
+2,sector,0.00839678,Decline in economic growth,IN_2
+2,increase,0.007799236,Decline in economic growth,IN_2
+2,demand,0.007177226,Decline in economic growth,IN_2
+2,economy,0.007156297,Decline in economic growth,IN_2
+2,low,0.006640964,Decline in economic growth,IN_2
+2,fall,0.006606054,Decline in economic growth,IN_2
+2,likely,0.006256281,Decline in economic growth,IN_2
+3,case,0.068897538,"Coronavirus outbreak, infections and deaths",IN_3
+3,test,0.036289655,"Coronavirus outbreak, infections and deaths",IN_3
+3,people,0.024892827,"Coronavirus outbreak, infections and deaths",IN_3
+3,number,0.024078589,"Coronavirus outbreak, infections and deaths",IN_3
+3,positive,0.023886124,"Coronavirus outbreak, infections and deaths",IN_3
+3,report,0.023025511,"Coronavirus outbreak, infections and deaths",IN_3
+3,day,0.01820018,"Coronavirus outbreak, infections and deaths",IN_3
+3,death,0.016889384,"Coronavirus outbreak, infections and deaths",IN_3
+3,infection,0.013212251,"Coronavirus outbreak, infections and deaths",IN_3
+3,virus,0.012972883,"Coronavirus outbreak, infections and deaths",IN_3
+3,state,0.01232799,"Coronavirus outbreak, infections and deaths",IN_3
+3,coronavirus,0.012234409,"Coronavirus outbreak, infections and deaths",IN_3
+3,quarantine,0.011864344,"Coronavirus outbreak, infections and deaths",IN_3
+3,health,0.011696092,"Coronavirus outbreak, infections and deaths",IN_3
+3,official,0.011503305,"Coronavirus outbreak, infections and deaths",IN_3
+3,new,0.011180901,"Coronavirus outbreak, infections and deaths",IN_3
+3,district,0.011080863,"Coronavirus outbreak, infections and deaths",IN_3
+3,patient,0.010061805,"Coronavirus outbreak, infections and deaths",IN_3
+3,total,0.010060921,"Coronavirus outbreak, infections and deaths",IN_3
+3,person,0.009530943,"Coronavirus outbreak, infections and deaths",IN_3
+4,lockdown,0.030829106,Opening and closing of shops to to lockdown restrictions,IN_4
+4,allow,0.021044798,Opening and closing of shops to to lockdown restrictions,IN_4
+4,area,0.019317472,Opening and closing of shops to to lockdown restrictions,IN_4
+4,shop,0.016574912,Opening and closing of shops to to lockdown restrictions,IN_4
+4,open,0.015828269,Opening and closing of shops to to lockdown restrictions,IN_4
+4,people,0.015308778,Opening and closing of shops to to lockdown restrictions,IN_4
+4,district,0.014892174,Opening and closing of shops to to lockdown restrictions,IN_4
+4,essential,0.013434112,Opening and closing of shops to to lockdown restrictions,IN_4
+4,city,0.013412688,Opening and closing of shops to to lockdown restrictions,IN_4
+4,service,0.013204633,Opening and closing of shops to to lockdown restrictions,IN_4
+4,police,0.012009751,Opening and closing of shops to to lockdown restrictions,IN_4
+4,order,0.010277871,Opening and closing of shops to to lockdown restrictions,IN_4
+4,market,0.009049303,Opening and closing of shops to to lockdown restrictions,IN_4
+4,social_distancing,0.008957294,Opening and closing of shops to to lockdown restrictions,IN_4
+4,bus,0.00830461,Opening and closing of shops to to lockdown restrictions,IN_4
+4,guideline,0.007961533,Opening and closing of shops to to lockdown restrictions,IN_4
+4,activity,0.007316423,Opening and closing of shops to to lockdown restrictions,IN_4
+4,movement,0.007175776,Opening and closing of shops to to lockdown restrictions,IN_4
+4,restriction,0.007105423,Opening and closing of shops to to lockdown restrictions,IN_4
+4,resident,0.006950693,Opening and closing of shops to to lockdown restrictions,IN_4
+5,people,0.021581504,Social wellbeing,IN_5
+5,world,0.012690331,Social wellbeing,IN_5
+5,need,0.009160259,Social wellbeing,IN_5
+5,time,0.007975806,Social wellbeing,IN_5
+5,life,0.007898974,Social wellbeing,IN_5
+5,health,0.005994381,Social wellbeing,IN_5
+5,woman,0.005556715,Social wellbeing,IN_5
+5,social,0.004906497,Social wellbeing,IN_5
+5,public,0.004737058,Social wellbeing,IN_5
+5,right,0.004665911,Social wellbeing,IN_5
+5,problem,0.0044647,Social wellbeing,IN_5
+5,change,0.004458814,Social wellbeing,IN_5
+5,community,0.004458809,Social wellbeing,IN_5
+5,political,0.004133937,Social wellbeing,IN_5
+5,happen,0.004091802,Social wellbeing,IN_5
+5,way,0.00395195,Social wellbeing,IN_5
+5,virus,0.003840199,Social wellbeing,IN_5
+5,question,0.003754576,Social wellbeing,IN_5
+5,risk,0.00372853,Social wellbeing,IN_5
+5,system,0.003604369,Social wellbeing,IN_5
+6,time,0.015000842,Entertainment,IN_6
+6,film,0.010782597,Entertainment,IN_6
+6,people,0.010745591,Entertainment,IN_6
+6,come,0.00950417,Entertainment,IN_6
+6,video,0.008892006,Entertainment,IN_6
+6,family,0.008688455,Entertainment,IN_6
+6,post,0.008529327,Entertainment,IN_6
+6,old,0.008283447,Entertainment,IN_6
+6,home,0.007679394,Entertainment,IN_6
+6,want,0.007031864,Entertainment,IN_6
+6,feel,0.006427709,Entertainment,IN_6
+6,thing,0.00640115,Entertainment,IN_6
+6,actor,0.006351662,Entertainment,IN_6
+6,share,0.006277291,Entertainment,IN_6
+6,stay,0.005939187,Entertainment,IN_6
+6,lot,0.005199644,Entertainment,IN_6
+6,friend,0.005136456,Entertainment,IN_6
+6,tell,0.005111796,Entertainment,IN_6
+6,day,0.005082952,Entertainment,IN_6
+6,life,0.005030037,Entertainment,IN_6
+7,work,0.059563335,Work and employment,IN_7
+7,worker,0.031462468,Work and employment,IN_7
+7,employee,0.026566094,Work and employment,IN_7
+7,home,0.025427788,Work and employment,IN_7
+7,job,0.019626359,Work and employment,IN_7
+7,pay,0.013581358,Work and employment,IN_7
+7,food,0.011600392,Work and employment,IN_7
+7,help,0.010928626,Work and employment,IN_7
+7,month,0.010701468,Work and employment,IN_7
+7,lockdown,0.009465085,Work and employment,IN_7
+7,return,0.009140928,Work and employment,IN_7
+7,leave,0.008971116,Work and employment,IN_7
+7,people,0.008956855,Work and employment,IN_7
+7,family,0.008683287,Work and employment,IN_7
+7,salary,0.00811132,Work and employment,IN_7
+7,provide,0.007741128,Work and employment,IN_7
+7,village,0.007404872,Work and employment,IN_7
+7,staff,0.006958812,Work and employment,IN_7
+7,migrant,0.006846993,Work and employment,IN_7
+7,day,0.006288483,Work and employment,IN_7
+8,company,0.056118816,Online business and digital technology,IN_8
+8,business,0.021502573,Online business and digital technology,IN_8
+8,new,0.015896456,Online business and digital technology,IN_8
+8,customer,0.012200985,Online business and digital technology,IN_8
+8,service,0.01216084,Online business and digital technology,IN_8
+8,platform,0.011940038,Online business and digital technology,IN_8
+8,launch,0.01177324,Online business and digital technology,IN_8
+8,technology,0.011409012,Online business and digital technology,IN_8
+8,digital,0.010979532,Online business and digital technology,IN_8
+8,online,0.010509689,Online business and digital technology,IN_8
+8,product,0.010239942,Online business and digital technology,IN_8
+8,offer,0.009581289,Online business and digital technology,IN_8
+8,app,0.009203331,Online business and digital technology,IN_8
+8,user,0.00871986,Online business and digital technology,IN_8
+8,firm,0.008478865,Online business and digital technology,IN_8
+8,brand,0.007175717,Online business and digital technology,IN_8
+8,base,0.006617963,Online business and digital technology,IN_8
+8,partner,0.006396498,Online business and digital technology,IN_8
+8,sale,0.006123226,Online business and digital technology,IN_8
+8,delivery,0.005953541,Online business and digital technology,IN_8
+9,government,0.115381241,Government Coronavirus response,IN_9
+9,state,0.093346044,Government Coronavirus response,IN_9
+9,official,0.012472644,Government Coronavirus response,IN_9
+9,lakh,0.008795006,Government Coronavirus response,IN_9
+9,issue,0.008601282,Government Coronavirus response,IN_9
+9,chief_minister,0.008108594,Government Coronavirus response,IN_9
+9,lockdown,0.007704977,Government Coronavirus response,IN_9
+9,department,0.007669703,Government Coronavirus response,IN_9
+9,letter,0.007074837,Government Coronavirus response,IN_9
+9,order,0.006903947,Government Coronavirus response,IN_9
+9,seek,0.006568946,Government Coronavirus response,IN_9
+9,ask,0.006432831,Government Coronavirus response,IN_9
+9,minister,0.006099902,Government Coronavirus response,IN_9
+9,central,0.006080521,Government Coronavirus response,IN_9
+9,direct,0.005728636,Government Coronavirus response,IN_9
+9,industry,0.005698548,Government Coronavirus response,IN_9
+9,extend,0.005422612,Government Coronavirus response,IN_9
+9,decision,0.005304863,Government Coronavirus response,IN_9
+9,charge,0.00509844,Government Coronavirus response,IN_9
+9,ministry,0.004874608,Government Coronavirus response,IN_9
+10,market,0.038919292,Markets and trade,IN_10
+10,cent,0.028667362,Markets and trade,IN_10
+10,trade,0.023182964,Markets and trade,IN_10
+10,rise,0.020334397,Markets and trade,IN_10
+10,point,0.020002516,Markets and trade,IN_10
+10,index,0.018584441,Markets and trade,IN_10
+10,fall,0.017530458,Markets and trade,IN_10
+10,stock,0.016954536,Markets and trade,IN_10
+10,share,0.01621416,Markets and trade,IN_10
+10,global,0.014642728,Markets and trade,IN_10
+10,gain,0.012427513,Markets and trade,IN_10
+10,low,0.012143425,Markets and trade,IN_10
+10,high,0.010727886,Markets and trade,IN_10
+10,close,0.010008108,Markets and trade,IN_10
+10,week,0.009873486,Markets and trade,IN_10
+10,investor,0.008858287,Markets and trade,IN_10
+10,future,0.008577628,Markets and trade,IN_10
+10,dollar,0.00843413,Markets and trade,IN_10
+10,price,0.007620894,Markets and trade,IN_10
+10,level,0.007325161,Markets and trade,IN_10
+11,travel,0.028165005,Travel,IN_11
+11,chinese,0.026850209,Travel,IN_11
+11,country,0.022788616,Travel,IN_11
+11,flight,0.022150805,Travel,IN_11
+11,indian,0.021217493,Travel,IN_11
+11,passenger,0.016478378,Travel,IN_11
+11,airline,0.015891882,Travel,IN_11
+11,border,0.012786907,Travel,IN_11
+11,international,0.012038033,Travel,IN_11
+11,foreign,0.011928421,Travel,IN_11
+11,airport,0.011213914,Travel,IN_11
+11,outbreak,0.008579996,Travel,IN_11
+11,ban,0.00824101,Travel,IN_11
+11,claim,0.007406488,Travel,IN_11
+11,include,0.007326288,Travel,IN_11
+11,official,0.007316624,Travel,IN_11
+11,national,0.006917249,Travel,IN_11
+11,cancel,0.006694268,Travel,IN_11
+11,domestic,0.00652982,Travel,IN_11
+11,policy,0.006366375,Travel,IN_11
+12,hospital,0.046253547,Healthcare,IN_12
+12,patient,0.035405431,Healthcare,IN_12
+12,medical,0.027035825,Healthcare,IN_12
+12,doctor,0.023884531,Healthcare,IN_12
+12,health,0.021955224,Healthcare,IN_12
+12,bed,0.01835162,Healthcare,IN_12
+12,kit,0.017707314,Healthcare,IN_12
+12,facility,0.016968606,Healthcare,IN_12
+12,private,0.016037136,Healthcare,IN_12
+12,ventilator,0.012497516,Healthcare,IN_12
+12,testing,0.011419484,Healthcare,IN_12
+12,care,0.010891797,Healthcare,IN_12
+12,treatment,0.009630105,Healthcare,IN_12
+12,staff,0.008986113,Healthcare,IN_12
+12,healthcare,0.008266754,Healthcare,IN_12
+12,shortage,0.007941804,Healthcare,IN_12
+12,court,0.006707912,Healthcare,IN_12
+12,centre,0.00632957,Healthcare,IN_12
+12,need,0.006089259,Healthcare,IN_12
+12,equipment,0.00591414,Healthcare,IN_12
+13,crore,0.1272313,Financial relief and loans,IN_13
+13,bank,0.045828212,Financial relief and loans,IN_13
+13,loan,0.034535959,Financial relief and loans,IN_13
+13,company,0.025410268,Financial relief and loans,IN_13
+13,lakh,0.021076513,Financial relief and loans,IN_13
+13,tax,0.019631632,Financial relief and loans,IN_13
+13,financial,0.017812073,Financial relief and loans,IN_13
+13,credit,0.011735514,Financial relief and loans,IN_13
+13,payment,0.011299596,Financial relief and loans,IN_13
+13,interest,0.010564108,Financial relief and loans,IN_13
+13,scheme,0.009443237,Financial relief and loans,IN_13
+13,liquidity,0.009386894,Financial relief and loans,IN_13
+13,total,0.009238858,Financial relief and loans,IN_13
+13,pay,0.00856988,Financial relief and loans,IN_13
+13,moratorium,0.008502912,Financial relief and loans,IN_13
+13,sector,0.008243696,Financial relief and loans,IN_13
+13,share,0.007817339,Financial relief and loans,IN_13
+13,income,0.007815859,Financial relief and loans,IN_13
+13,capital,0.007768233,Financial relief and loans,IN_13
+13,announce,0.007648107,Financial relief and loans,IN_13
+14,production,0.028863117,Supply chain and manufacturing,IN_14
+14,unit,0.028554799,Supply chain and manufacturing,IN_14
+14,export,0.028403878,Supply chain and manufacturing,IN_14
+14,farmer,0.025367025,Supply chain and manufacturing,IN_14
+14,supply,0.020750448,Supply chain and manufacturing,IN_14
+14,industry,0.018596476,Supply chain and manufacturing,IN_14
+14,manufacturing,0.017716162,Supply chain and manufacturing,IN_14
+14,import,0.016193967,Supply chain and manufacturing,IN_14
+14,plant,0.014054392,Supply chain and manufacturing,IN_14
+14,produce,0.013743514,Supply chain and manufacturing,IN_14
+14,manufacture,0.012378839,Supply chain and manufacturing,IN_14
+14,product,0.011795931,Supply chain and manufacturing,IN_14
+14,manufacturer,0.010764962,Supply chain and manufacturing,IN_14
+14,market,0.010733117,Supply chain and manufacturing,IN_14
+14,company,0.010374327,Supply chain and manufacturing,IN_14
+14,supply_chain,0.008734179,Supply chain and manufacturing,IN_14
+14,lakh,0.008259424,Supply chain and manufacturing,IN_14
+14,factory,0.008235437,Supply chain and manufacturing,IN_14
+14,operation,0.007889719,Supply chain and manufacturing,IN_14
+14,demand,0.007620202,Supply chain and manufacturing,IN_14
+15,vaccine,0.029780729,Coronavirus vaccine,IN_15
+15,drug,0.026274696,Coronavirus vaccine,IN_15
+15,virus,0.02516653,Coronavirus vaccine,IN_15
+15,study,0.016282625,Coronavirus vaccine,IN_15
+15,develop,0.015078566,Coronavirus vaccine,IN_15
+15,use,0.014483558,Coronavirus vaccine,IN_15
+15,disease,0.013350858,Coronavirus vaccine,IN_15
+15,patient,0.009882569,Coronavirus vaccine,IN_15
+15,human,0.009654083,Coronavirus vaccine,IN_15
+15,trial,0.008437255,Coronavirus vaccine,IN_15
+15,medicine,0.008313419,Coronavirus vaccine,IN_15
+15,treatment,0.007659234,Coronavirus vaccine,IN_15
+15,infection,0.007586476,Coronavirus vaccine,IN_15
+15,research,0.007062652,Coronavirus vaccine,IN_15
+15,spread,0.006726339,Coronavirus vaccine,IN_15
+15,find,0.006172311,Coronavirus vaccine,IN_15
+15,infect,0.00584629,Coronavirus vaccine,IN_15
+15,scientist,0.005750456,Coronavirus vaccine,IN_15
+15,clinical_trial,0.005641242,Coronavirus vaccine,IN_15
+15,animal,0.005575636,Coronavirus vaccine,IN_15
+16,student,0.046136763,Education,IN_16
+16,school,0.02841009,Education,IN_16
+16,online,0.017777866,Education,IN_16
+16,class,0.016681891,Education,IN_16
+16,year,0.015360846,Education,IN_16
+16,child,0.013705052,Education,IN_16
+16,exam,0.013653254,Education,IN_16
+16,education,0.012726202,Education,IN_16
+16,course,0.011261495,Education,IN_16
+16,study,0.009416699,Education,IN_16
+16,parent,0.009397219,Education,IN_16
+16,examination,0.009371338,Education,IN_16
+16,university,0.007910457,Education,IN_16
+16,conduct,0.007732804,Education,IN_16
+16,coal,0.00663364,Education,IN_16
+16,learn,0.006614179,Education,IN_16
+16,private,0.006453332,Education,IN_16
+16,teacher,0.0062575,Education,IN_16
+16,fee,0.006019213,Education,IN_16
+16,candidate,0.005819134,Education,IN_16
+17,investment,0.04494337,Investment,IN_17
+17,investor,0.029667167,Investment,IN_17
+17,market,0.025561323,Investment,IN_17
+17,fund,0.024506945,Investment,IN_17
+17,percent,0.022024496,Investment,IN_17
+17,debt,0.017457278,Investment,IN_17
+17,stock,0.015391343,Investment,IN_17
+17,equity,0.01451121,Investment,IN_17
+17,invest,0.014328418,Investment,IN_17
+17,value,0.014153764,Investment,IN_17
+17,gold,0.013643082,Investment,IN_17
+17,asset,0.013028272,Investment,IN_17
+17,stake,0.01225444,Investment,IN_17
+17,high,0.011817956,Investment,IN_17
+17,buy,0.011726676,Investment,IN_17
+17,share,0.011252027,Investment,IN_17
+17,price,0.008919626,Investment,IN_17
+17,bond,0.008392339,Investment,IN_17
+17,house,0.006606658,Investment,IN_17
+17,target,0.006602732,Investment,IN_17
+18,mask,0.050672814,Coronavirus safety measures,IN_18
+18,sell,0.026424436,Coronavirus safety measures,IN_18
+18,food,0.022676289,Coronavirus safety measures,IN_18
+18,store,0.019121811,Coronavirus safety measures,IN_18
+18,sale,0.015819183,Coronavirus safety measures,IN_18
+18,restaurant,0.014509049,Coronavirus safety measures,IN_18
+18,face,0.012415729,Coronavirus safety measures,IN_18
+18,product,0.012009572,Coronavirus safety measures,IN_18
+18,item,0.011393374,Coronavirus safety measures,IN_18
+18,buy,0.010276441,Coronavirus safety measures,IN_18
+18,delivery,0.010054837,Coronavirus safety measures,IN_18
+18,customer,0.009982931,Coronavirus safety measures,IN_18
+18,liquor,0.009270883,Coronavirus safety measures,IN_18
+18,hand_sanitiser,0.008769074,Coronavirus safety measures,IN_18
+18,stock,0.008741478,Coronavirus safety measures,IN_18
+18,wear,0.008709339,Coronavirus safety measures,IN_18
+18,milk,0.008611503,Coronavirus safety measures,IN_18
+18,alcohol,0.007948329,Coronavirus safety measures,IN_18
+18,retailer,0.007665206,Coronavirus safety measures,IN_18
+18,retail,0.006774003,Coronavirus safety measures,IN_18
+19,price,0.111153282,Oil and fuel prices,IN_19
+19,oil,0.045859955,Oil and fuel prices,IN_19
+19,demand,0.043276764,Oil and fuel prices,IN_19
+19,increase,0.022003755,Oil and fuel prices,IN_19
+19,fuel,0.017336622,Oil and fuel prices,IN_19
+19,barrel,0.016124144,Oil and fuel prices,IN_19
+19,cut,0.014919617,Oil and fuel prices,IN_19
+19,tonne,0.012781746,Oil and fuel prices,IN_19
+19,crude,0.012155922,Oil and fuel prices,IN_19
+19,low,0.011969911,Oil and fuel prices,IN_19
+19,rate,0.01091022,Oil and fuel prices,IN_19
+19,production,0.010046286,Oil and fuel prices,IN_19
+19,hike,0.009692656,Oil and fuel prices,IN_19
+19,crude_oil,0.0094286,Oil and fuel prices,IN_19
+19,supply,0.009302931,Oil and fuel prices,IN_19
+19,steel,0.0091339,Oil and fuel prices,IN_19
+19,energy,0.009000145,Oil and fuel prices,IN_19
+19,producer,0.008924873,Oil and fuel prices,IN_19
+19,output,0.007581732,Oil and fuel prices,IN_19
+19,storage,0.00727684,Oil and fuel prices,IN_19
+20,game,0.019093152,Sports,IN_20
+20,police,0.01670781,Sports,IN_20
+20,player,0.016363068,Sports,IN_20
+20,play,0.014995193,Sports,IN_20
+20,team,0.01493645,Sports,IN_20
+20,sport,0.013090471,Sports,IN_20
+20,club,0.012296763,Sports,IN_20
+20,arrest,0.011023001,Sports,IN_20
+20,cricket,0.009826355,Sports,IN_20
+20,match,0.009780439,Sports,IN_20
+20,season,0.008147773,Sports,IN_20
+20,fire,0.007241915,Sports,IN_20
+20,blood,0.006660178,Sports,IN_20
+20,find,0.006337053,Sports,IN_20
+20,football,0.006178215,Sports,IN_20
+20,accuse,0.006176564,Sports,IN_20
+20,crime,0.006169146,Sports,IN_20
+20,FALSE,0.006082502,Sports,IN_20
+20,ship,0.005952134,Sports,IN_20
+20,training,0.005249646,Sports,IN_20

@@ -1,0 +1,321 @@
+Topic,Word,P,Label,CountryTopic
+1,people,0.029356459,Social wellbeing,CA_1
+1,home,0.017785462,Social wellbeing,CA_1
+1,time,0.01671109,Social wellbeing,CA_1
+1,work,0.014836608,Social wellbeing,CA_1
+1,come,0.01262343,Social wellbeing,CA_1
+1,want,0.012001843,Social wellbeing,CA_1
+1,advertisement,0.010496439,Social wellbeing,CA_1
+1,continue,0.010399056,Social wellbeing,CA_1
+1,family,0.009839966,Social wellbeing,CA_1
+1,look,0.009579651,Social wellbeing,CA_1
+1,need,0.009563292,Social wellbeing,CA_1
+1,way,0.009285262,Social wellbeing,CA_1
+1,thing,0.008803077,Social wellbeing,CA_1
+1,lot,0.008527528,Social wellbeing,CA_1
+1,good,0.008130958,Social wellbeing,CA_1
+1,community,0.007679107,Social wellbeing,CA_1
+1,right,0.007640042,Social wellbeing,CA_1
+1,day,0.007625207,Social wellbeing,CA_1
+1,help,0.007344924,Social wellbeing,CA_1
+1,feel,0.007044464,Social wellbeing,CA_1
+2,public,0.025465731,Lockdown restrictions,CA_2
+2,reopen,0.025411079,Lockdown restrictions,CA_2
+2,province,0.024974165,Lockdown restrictions,CA_2
+2,people,0.023082547,Lockdown restrictions,CA_2
+2,health,0.016386047,Lockdown restrictions,CA_2
+2,plan,0.014092711,Lockdown restrictions,CA_2
+2,include,0.012614849,Lockdown restrictions,CA_2
+2,allow,0.012239528,Lockdown restrictions,CA_2
+2,open,0.01106175,Lockdown restrictions,CA_2
+2,service,0.010992699,Lockdown restrictions,CA_2
+2,continue,0.009937053,Lockdown restrictions,CA_2
+2,restriction,0.009779292,Lockdown restrictions,CA_2
+2,physical_distancing,0.008431281,Lockdown restrictions,CA_2
+2,city,0.007794176,Lockdown restrictions,CA_2
+2,measure,0.007793782,Lockdown restrictions,CA_2
+2,place,0.007358744,Lockdown restrictions,CA_2
+2,advertisement,0.006740365,Lockdown restrictions,CA_2
+2,provincial,0.006711877,Lockdown restrictions,CA_2
+2,order,0.006676275,Lockdown restrictions,CA_2
+2,phase,0.00657739,Lockdown restrictions,CA_2
+3,virus,0.03712685,Coronavirus infections and spread,CA_3
+3,outbreak,0.030090781,Coronavirus infections and spread,CA_3
+3,coronavirus,0.022588775,Coronavirus infections and spread,CA_3
+3,people,0.019026175,Coronavirus infections and spread,CA_3
+3,country,0.0179678,Coronavirus infections and spread,CA_3
+3,spread,0.017452901,Coronavirus infections and spread,CA_3
+3,case,0.016172308,Coronavirus infections and spread,CA_3
+3,travel,0.013676904,Coronavirus infections and spread,CA_3
+3,test,0.012675965,Coronavirus infections and spread,CA_3
+3,health,0.011713563,Coronavirus infections and spread,CA_3
+3,official,0.010215038,Coronavirus infections and spread,CA_3
+3,infection,0.008981316,Coronavirus infections and spread,CA_3
+3,continue,0.008675677,Coronavirus infections and spread,CA_3
+3,symptom,0.008642903,Coronavirus infections and spread,CA_3
+3,disease,0.008505587,Coronavirus infections and spread,CA_3
+3,new,0.008377628,Coronavirus infections and spread,CA_3
+3,advertisement,0.006978281,Coronavirus infections and spread,CA_3
+3,contact,0.006803677,Coronavirus infections and spread,CA_3
+3,risk,0.006199711,Coronavirus infections and spread,CA_3
+3,quarantine,0.006161403,Coronavirus infections and spread,CA_3
+4,government,0.029757109,Government economic support programs,CA_4
+4,support,0.020368889,Government economic support programs,CA_4
+4,program,0.01645305,Government economic support programs,CA_4
+4,help,0.015463257,Government economic support programs,CA_4
+4,pandemic,0.013936781,Government economic support programs,CA_4
+4,federal,0.013920617,Government economic support programs,CA_4
+4,work,0.01236937,Government economic support programs,CA_4
+4,pay,0.011897102,Government economic support programs,CA_4
+4,worker,0.011530739,Government economic support programs,CA_4
+4,business,0.010126924,Government economic support programs,CA_4
+4,job,0.009617225,Government economic support programs,CA_4
+4,provide,0.008484307,Government economic support programs,CA_4
+4,need,0.008051744,Government economic support programs,CA_4
+4,announce,0.007822587,Government economic support programs,CA_4
+4,receive,0.006945657,Government economic support programs,CA_4
+4,province,0.006766343,Government economic support programs,CA_4
+4,employee,0.006762651,Government economic support programs,CA_4
+4,financial,0.006198565,Government economic support programs,CA_4
+4,funding,0.006194205,Government economic support programs,CA_4
+4,economic,0.006137065,Government economic support programs,CA_4
+5,mask,0.042330407,Healthcare and healthcare workers,CA_5
+5,care,0.02208828,Healthcare and healthcare workers,CA_5
+5,health,0.020370828,Healthcare and healthcare workers,CA_5
+5,worker,0.018190278,Healthcare and healthcare workers,CA_5
+5,wear,0.017868452,Healthcare and healthcare workers,CA_5
+5,medical,0.016709505,Healthcare and healthcare workers,CA_5
+5,supply,0.015720263,Healthcare and healthcare workers,CA_5
+5,patient,0.013517038,Healthcare and healthcare workers,CA_5
+5,hospital,0.013327878,Healthcare and healthcare workers,CA_5
+5,need,0.011515727,Healthcare and healthcare workers,CA_5
+5,face,0.00935882,Healthcare and healthcare workers,CA_5
+5,employee,0.008825079,Healthcare and healthcare workers,CA_5
+5,work,0.00839595,Healthcare and healthcare workers,CA_5
+5,staff,0.007604053,Healthcare and healthcare workers,CA_5
+5,shortage,0.007481148,Healthcare and healthcare workers,CA_5
+5,doctor,0.006758188,Healthcare and healthcare workers,CA_5
+5,use,0.005977191,Healthcare and healthcare workers,CA_5
+5,facility,0.005898807,Healthcare and healthcare workers,CA_5
+5,ventilator,0.005629536,Healthcare and healthcare workers,CA_5
+5,protect,0.005402331,Healthcare and healthcare workers,CA_5
+6,case,0.120122775,Coronavirus cases and deaths,CA_6
+6,new,0.043578185,Coronavirus cases and deaths,CA_6
+6,report,0.037085123,Coronavirus cases and deaths,CA_6
+6,death,0.034723707,Coronavirus cases and deaths,CA_6
+6,province,0.033397894,Coronavirus cases and deaths,CA_6
+6,health,0.02958668,Coronavirus cases and deaths,CA_6
+6,test,0.026804186,Coronavirus cases and deaths,CA_6
+6,number,0.026085254,Coronavirus cases and deaths,CA_6
+6,patient,0.025958665,Coronavirus cases and deaths,CA_6
+6,confirm,0.025942028,Coronavirus cases and deaths,CA_6
+6,total,0.021459395,Coronavirus cases and deaths,CA_6
+6,official,0.021049198,Coronavirus cases and deaths,CA_6
+6,home,0.017896472,Coronavirus cases and deaths,CA_6
+6,care,0.016889228,Coronavirus cases and deaths,CA_6
+6,people,0.015746934,Coronavirus cases and deaths,CA_6
+6,include,0.015425758,Coronavirus cases and deaths,CA_6
+6,virus,0.012850325,Coronavirus cases and deaths,CA_6
+6,outbreak,0.012643504,Coronavirus cases and deaths,CA_6
+6,positive,0.012593441,Coronavirus cases and deaths,CA_6
+6,day,0.012388417,Coronavirus cases and deaths,CA_6
+7,cent,0.050164122,"Economy, market, and trade",CA_7
+7,economy,0.014523644,"Economy, market, and trade",CA_7
+7,price,0.012736037,"Economy, market, and trade",CA_7
+7,fall,0.011529728,"Economy, market, and trade",CA_7
+7,economic,0.010673234,"Economy, market, and trade",CA_7
+7,rate,0.010505954,"Economy, market, and trade",CA_7
+7,market,0.010351259,"Economy, market, and trade",CA_7
+7,high,0.009530382,"Economy, market, and trade",CA_7
+7,low,0.009288182,"Economy, market, and trade",CA_7
+7,oil,0.008686264,"Economy, market, and trade",CA_7
+7,cut,0.008476529,"Economy, market, and trade",CA_7
+7,month,0.008285005,"Economy, market, and trade",CA_7
+7,point,0.008081749,"Economy, market, and trade",CA_7
+7,rise,0.008049852,"Economy, market, and trade",CA_7
+7,drop,0.007979332,"Economy, market, and trade",CA_7
+7,canadian,0.007431817,"Economy, market, and trade",CA_7
+7,week,0.00701518,"Economy, market, and trade",CA_7
+7,global,0.006835212,"Economy, market, and trade",CA_7
+7,demand,0.006350977,"Economy, market, and trade",CA_7
+7,trade,0.006350511,"Economy, market, and trade",CA_7
+8,vaccine,0.019034529,Politics and elections,CA_8
+8,advertisement,0.015984744,Politics and elections,CA_8
+8,government,0.013698494,Politics and elections,CA_8
+8,state,0.013682474,Politics and elections,CA_8
+8,country,0.012383135,Politics and elections,CA_8
+8,continue,0.010182453,Politics and elections,CA_8
+8,party,0.008759675,Politics and elections,CA_8
+8,leader,0.006091021,Politics and elections,CA_8
+8,meeting,0.006001274,Politics and elections,CA_8
+8,drug,0.005904682,Politics and elections,CA_8
+8,campaign,0.005769697,Politics and elections,CA_8
+8,border,0.005586687,Politics and elections,CA_8
+8,president,0.005483959,Politics and elections,CA_8
+8,political,0.005441098,Politics and elections,CA_8
+8,decision,0.005358288,Politics and elections,CA_8
+8,administration,0.005006295,Politics and elections,CA_8
+8,election,0.0049099,Politics and elections,CA_8
+8,vote,0.00488826,Politics and elections,CA_8
+8,national,0.004601769,Politics and elections,CA_8
+8,question,0.00454738,Politics and elections,CA_8
+9,technology,0.01876878,Technology and digital solutions,CA_9
+9,company,0.018486241,Technology and digital solutions,CA_9
+9,device,0.017145867,Technology and digital solutions,CA_9
+9,datum,0.0160385,Technology and digital solutions,CA_9
+9,use,0.012536214,Technology and digital solutions,CA_9
+9,iot,0.01209713,Technology and digital solutions,CA_9
+9,solution,0.012074904,Technology and digital solutions,CA_9
+9,system,0.01016777,Technology and digital solutions,CA_9
+9,service,0.009561201,Technology and digital solutions,CA_9
+9,app,0.008621002,Technology and digital solutions,CA_9
+9,network,0.008609449,Technology and digital solutions,CA_9
+9,product,0.007777505,Technology and digital solutions,CA_9
+9,security,0.007192791,Technology and digital solutions,CA_9
+9,new,0.007112029,Technology and digital solutions,CA_9
+9,platform,0.006146954,Technology and digital solutions,CA_9
+9,smart,0.005621128,Technology and digital solutions,CA_9
+9,enable,0.005620992,Technology and digital solutions,CA_9
+9,connect,0.005479235,Technology and digital solutions,CA_9
+9,user,0.005466921,Technology and digital solutions,CA_9
+9,supply_chain,0.005022841,Technology and digital solutions,CA_9
+10,business,0.060838908,"Opening and closing of restaurants, bars and stores",CA_10
+10,store,0.034084182,"Opening and closing of restaurants, bars and stores",CA_10
+10,restaurant,0.027744496,"Opening and closing of restaurants, bars and stores",CA_10
+10,customer,0.02521731,"Opening and closing of restaurants, bars and stores",CA_10
+10,close,0.0251996,"Opening and closing of restaurants, bars and stores",CA_10
+10,open,0.02238418,"Opening and closing of restaurants, bars and stores",CA_10
+10,owner,0.015015462,"Opening and closing of restaurants, bars and stores",CA_10
+10,city,0.014955479,"Opening and closing of restaurants, bars and stores",CA_10
+10,food,0.012109254,"Opening and closing of restaurants, bars and stores",CA_10
+10,order,0.011131373,"Opening and closing of restaurants, bars and stores",CA_10
+10,local,0.009889441,"Opening and closing of restaurants, bars and stores",CA_10
+10,service,0.009471704,"Opening and closing of restaurants, bars and stores",CA_10
+10,shop,0.008601611,"Opening and closing of restaurants, bars and stores",CA_10
+10,door,0.007827172,"Opening and closing of restaurants, bars and stores",CA_10
+10,bar,0.007766278,"Opening and closing of restaurants, bars and stores",CA_10
+10,location,0.007752069,"Opening and closing of restaurants, bars and stores",CA_10
+10,delivery,0.007618218,"Opening and closing of restaurants, bars and stores",CA_10
+10,small,0.007429743,"Opening and closing of restaurants, bars and stores",CA_10
+10,online,0.007284628,"Opening and closing of restaurants, bars and stores",CA_10
+10,retail,0.006706193,"Opening and closing of restaurants, bars and stores",CA_10
+11,event,0.026037822,Sports,CA_11
+11,year,0.023684269,Sports,CA_11
+11,season,0.019643264,Sports,CA_11
+11,play,0.015089452,Sports,CA_11
+11,game,0.014238957,Sports,CA_11
+11,cancel,0.012873479,Sports,CA_11
+11,team,0.012205112,Sports,CA_11
+11,player,0.009765269,Sports,CA_11
+11,summer,0.00920078,Sports,CA_11
+11,tourism,0.007334969,Sports,CA_11
+11,postpone,0.007220734,Sports,CA_11
+11,host,0.006742042,Sports,CA_11
+11,schedule,0.00591721,Sports,CA_11
+11,league,0.005738964,Sports,CA_11
+11,sport,0.005476151,Sports,CA_11
+11,tour,0.005346016,Sports,CA_11
+11,fan,0.005315695,Sports,CA_11
+11,virtual,0.005294531,Sports,CA_11
+11,world,0.005069623,Sports,CA_11
+11,industry,0.004555564,Sports,CA_11
+12,company,0.045541726,Stock market and investment,CA_12
+12,year,0.038320094,Stock market and investment,CA_12
+12,stock,0.022530584,Stock market and investment,CA_12
+12,market,0.020534217,Stock market and investment,CA_12
+12,share,0.015108338,Stock market and investment,CA_12
+12,sale,0.014154872,Stock market and investment,CA_12
+12,bank,0.012640807,Stock market and investment,CA_12
+12,investor,0.012212778,Stock market and investment,CA_12
+12,sell,0.010657365,Stock market and investment,CA_12
+12,quarter,0.009999241,Stock market and investment,CA_12
+12,buy,0.009481427,Stock market and investment,CA_12
+12,price,0.009322985,Stock market and investment,CA_12
+12,financial,0.009012301,Stock market and investment,CA_12
+12,investment,0.008998628,Stock market and investment,CA_12
+12,revenue,0.007551869,Stock market and investment,CA_12
+12,money,0.007439303,Stock market and investment,CA_12
+12,production,0.007433009,Stock market and investment,CA_12
+12,mortgage,0.006733162,Stock market and investment,CA_12
+12,debt,0.006304233,Stock market and investment,CA_12
+12,loss,0.006222086,Stock market and investment,CA_12
+13,police,0.023060309,BLM protests,CA_13
+13,video,0.008916442,BLM protests,CA_13
+13,advertisement,0.008797681,BLM protests,CA_13
+13,claim,0.008575378,BLM protests,CA_13
+13,chinese,0.008211629,BLM protests,CA_13
+13,protest,0.00790759,BLM protests,CA_13
+13,charge,0.007625338,BLM protests,CA_13
+13,post,0.007201402,BLM protests,CA_13
+13,officer,0.006340043,BLM protests,CA_13
+13,social_medium,0.006077569,BLM protests,CA_13
+13,black,0.005807263,BLM protests,CA_13
+13,man,0.005299423,BLM protests,CA_13
+13,attack,0.005204352,BLM protests,CA_13
+13,fire,0.005191928,BLM protests,CA_13
+13,news,0.005101428,BLM protests,CA_13
+13,military,0.005025134,BLM protests,CA_13
+13,arrest,0.005006798,BLM protests,CA_13
+13,break,0.004945377,BLM protests,CA_13
+13,death,0.0046807,BLM protests,CA_13
+13,release,0.004634878,BLM protests,CA_13
+14,market,0.085705906,Internet and IoT,CA_14
+14,report,0.045158956,Internet and IoT,CA_14
+14,internet,0.042151999,Internet and IoT,CA_14
+14,iot,0.041052859,Internet and IoT,CA_14
+14,global,0.023693303,Internet and IoT,CA_14
+14,industry,0.02219064,Internet and IoT,CA_14
+14,analysis,0.017144989,Internet and IoT,CA_14
+14,growth,0.016774189,Internet and IoT,CA_14
+14,research,0.016730703,Internet and IoT,CA_14
+14,thing,0.01474834,Internet and IoT,CA_14
+14,key,0.014038422,Internet and IoT,CA_14
+14,region,0.010767207,Internet and IoT,CA_14
+14,study,0.010644384,Internet and IoT,CA_14
+14,provide,0.010533085,Internet and IoT,CA_14
+14,player,0.010291644,Internet and IoT,CA_14
+14,application,0.010204064,Internet and IoT,CA_14
+14,product,0.008807107,Internet and IoT,CA_14
+14,share,0.008577384,Internet and IoT,CA_14
+14,type,0.008479646,Internet and IoT,CA_14
+14,trend,0.008400243,Internet and IoT,CA_14
+15,student,0.042079169,Education and travel,CA_15
+15,school,0.040517822,Education and travel,CA_15
+15,travel,0.025597416,Education and travel,CA_15
+15,flight,0.024828928,Education and travel,CA_15
+15,child,0.022949006,Education and travel,CA_15
+15,passenger,0.020359768,Education and travel,CA_15
+15,airline,0.017136542,Education and travel,CA_15
+15,parent,0.017098509,Education and travel,CA_15
+15,class,0.013556459,Education and travel,CA_15
+15,cancel,0.01251796,Education and travel,CA_15
+15,board,0.011603313,Education and travel,CA_15
+15,plan,0.010096928,Education and travel,CA_15
+15,ship,0.009503428,Education and travel,CA_15
+15,fly,0.008960787,Education and travel,CA_15
+15,trip,0.008857722,Education and travel,CA_15
+15,kid,0.008761769,Education and travel,CA_15
+15,airport,0.008326953,Education and travel,CA_15
+15,international,0.00814965,Education and travel,CA_15
+15,cruise_ship,0.007984593,Education and travel,CA_15
+15,online,0.007905565,Education and travel,CA_15
+16,project,0.031239346,Construction and infrastructure projects,CA_16
+16,datum,0.022741282,Construction and infrastructure projects,CA_16
+16,study,0.018948346,Construction and infrastructure projects,CA_16
+16,water,0.018018061,Construction and infrastructure projects,CA_16
+16,city,0.01761282,Construction and infrastructure projects,CA_16
+16,construction,0.015535505,Construction and infrastructure projects,CA_16
+16,infrastructure,0.009663275,Construction and infrastructure projects,CA_16
+16,research,0.009147714,Construction and infrastructure projects,CA_16
+16,collect,0.008231628,Construction and infrastructure projects,CA_16
+16,patient,0.008151824,Construction and infrastructure projects,CA_16
+16,environmental,0.00794872,Construction and infrastructure projects,CA_16
+16,researcher,0.007947734,Construction and infrastructure projects,CA_16
+16,level,0.007199488,Construction and infrastructure projects,CA_16
+16,satellite,0.006526461,Construction and infrastructure projects,CA_16
+16,population,0.006437532,Construction and infrastructure projects,CA_16
+16,rate,0.006398644,Construction and infrastructure projects,CA_16
+16,lead,0.006342746,Construction and infrastructure projects,CA_16
+16,site,0.005796595,Construction and infrastructure projects,CA_16
+16,developer,0.005715229,Construction and infrastructure projects,CA_16
+16,space,0.00548624,Construction and infrastructure projects,CA_16

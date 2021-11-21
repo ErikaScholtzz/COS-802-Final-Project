@@ -1,0 +1,441 @@
+Topic,Word,P,Label,CountryTopic
+1,government,0.0276831,Government coronavirus response,ZA_1
+1,economy,0.014777953,Government coronavirus response,ZA_1
+1,need,0.013676279,Government coronavirus response,ZA_1
+1,economic,0.009671393,Government coronavirus response,ZA_1
+1,crisis,0.00753199,Government coronavirus response,ZA_1
+1,response,0.007412322,Government coronavirus response,ZA_1
+1,country,0.007363636,Government coronavirus response,ZA_1
+1,lockdown,0.007128407,Government coronavirus response,ZA_1
+1,pandemic,0.007089734,Government coronavirus response,ZA_1
+1,business,0.006767525,Government coronavirus response,ZA_1
+1,support,0.005777461,Government coronavirus response,ZA_1
+1,challenge,0.005644523,Government coronavirus response,ZA_1
+1,public,0.005297685,Government coronavirus response,ZA_1
+1,time,0.005065986,Government coronavirus response,ZA_1
+1,new,0.004859523,Government coronavirus response,ZA_1
+1,impact,0.00474001,Government coronavirus response,ZA_1
+1,opportunity,0.004712375,Government coronavirus response,ZA_1
+1,infrastructure,0.004652326,Government coronavirus response,ZA_1
+1,sector,0.004380715,Government coronavirus response,ZA_1
+1,system,0.004312089,Government coronavirus response,ZA_1
+2,province,0.019890798,Public healthcare,ZA_2
+2,hospital,0.017792702,Public healthcare,ZA_2
+2,test,0.014095563,Public healthcare,ZA_2
+2,staff,0.013218031,Public healthcare,ZA_2
+2,positive,0.01147138,Public healthcare,ZA_2
+2,department,0.009871898,Public healthcare,ZA_2
+2,work,0.009689653,Public healthcare,ZA_2
+2,facility,0.008634847,Public healthcare,ZA_2
+2,patient,0.007889792,Public healthcare,ZA_2
+2,bed,0.007587761,Public healthcare,ZA_2
+2,tell,0.007305891,Public healthcare,ZA_2
+2,add,0.007179955,Public healthcare,ZA_2
+2,virus,0.006404513,Public healthcare,ZA_2
+2,member,0.006220841,Public healthcare,ZA_2
+2,people,0.006143956,Public healthcare,ZA_2
+2,provincial,0.005568086,Public healthcare,ZA_2
+2,close,0.005400902,Public healthcare,ZA_2
+2,contact,0.005320064,Public healthcare,ZA_2
+2,area,0.00527445,Public healthcare,ZA_2
+2,nurse,0.005172933,Public healthcare,ZA_2
+3,case,0.067512937,Coronavirus cases and deaths,ZA_3
+3,country,0.043447457,Coronavirus cases and deaths,ZA_3
+3,death,0.034266908,Coronavirus cases and deaths,ZA_3
+3,infection,0.028370537,Coronavirus cases and deaths,ZA_3
+3,report,0.024849014,Coronavirus cases and deaths,ZA_3
+3,number,0.024519669,Coronavirus cases and deaths,ZA_3
+3,people,0.018750349,Coronavirus cases and deaths,ZA_3
+3,new,0.01874564,Coronavirus cases and deaths,ZA_3
+3,coronavirus,0.017604629,Coronavirus cases and deaths,ZA_3
+3,week,0.01473441,Coronavirus cases and deaths,ZA_3
+3,virus,0.014302758,Coronavirus cases and deaths,ZA_3
+3,record,0.012795842,Coronavirus cases and deaths,ZA_3
+3,confirm,0.01070877,Coronavirus cases and deaths,ZA_3
+3,rise,0.009780498,Coronavirus cases and deaths,ZA_3
+3,spread,0.009754551,Coronavirus cases and deaths,ZA_3
+3,day,0.009663256,Coronavirus cases and deaths,ZA_3
+3,total,0.009641778,Coronavirus cases and deaths,ZA_3
+3,die,0.00762916,Coronavirus cases and deaths,ZA_3
+3,increase,0.007597327,Coronavirus cases and deaths,ZA_3
+3,high,0.007529256,Coronavirus cases and deaths,ZA_3
+4,people,0.033971403,Social wellbeing,ZA_4
+4,community,0.020226466,Social wellbeing,ZA_4
+4,food,0.016387161,Social wellbeing,ZA_4
+4,young,0.012045517,Social wellbeing,ZA_4
+4,pandemic,0.009400142,Social wellbeing,ZA_4
+4,life,0.008478183,Social wellbeing,ZA_4
+4,help,0.007851226,Social wellbeing,ZA_4
+4,world,0.007791092,Social wellbeing,ZA_4
+4,family,0.006979589,Social wellbeing,ZA_4
+4,child,0.006674684,Social wellbeing,ZA_4
+4,respondent,0.006501632,Social wellbeing,ZA_4
+4,food_parcel,0.006388061,Social wellbeing,ZA_4
+4,survey,0.006018328,Social wellbeing,ZA_4
+4,hunger,0.005826877,Social wellbeing,ZA_4
+4,organisation,0.005687903,Social wellbeing,ZA_4
+4,household,0.005405997,Social wellbeing,ZA_4
+4,youth,0.005397597,Social wellbeing,ZA_4
+4,vulnerable,0.005277791,Social wellbeing,ZA_4
+4,live,0.005169008,Social wellbeing,ZA_4
+4,support,0.004870905,Social wellbeing,ZA_4
+5,taxi,0.017630717,Government relief programs,ZA_5
+5,government,0.015437198,Government relief programs,ZA_5
+5,relief,0.013455118,Government relief programs,ZA_5
+5,worker,0.012599568,Government relief programs,ZA_5
+5,pay,0.01239811,Government relief programs,ZA_5
+5,grant,0.012226078,Government relief programs,ZA_5
+5,fund,0.010252085,Government relief programs,ZA_5
+5,taxi_industry,0.010247786,Government relief programs,ZA_5
+5,receive,0.009126698,Government relief programs,ZA_5
+5,industry,0.009056744,Government relief programs,ZA_5
+5,service,0.008974927,Government relief programs,ZA_5
+5,meeting,0.008261488,Government relief programs,ZA_5
+5,month,0.008147583,Government relief programs,ZA_5
+5,regulation,0.007924887,Government relief programs,ZA_5
+5,statement,0.007877196,Government relief programs,ZA_5
+5,department,0.007321963,Government relief programs,ZA_5
+5,work,0.007304326,Government relief programs,ZA_5
+5,committee,0.007083352,Government relief programs,ZA_5
+5,payment,0.006703293,Government relief programs,ZA_5
+5,employee,0.006445824,Government relief programs,ZA_5
+6,people,0.04109871,Familial matters,ZA_6
+6,day,0.024644043,Familial matters,ZA_6
+6,home,0.019073864,Familial matters,ZA_6
+6,family,0.01893406,Familial matters,ZA_6
+6,time,0.015416067,Familial matters,ZA_6
+6,want,0.014208606,Familial matters,ZA_6
+6,feel,0.010973675,Familial matters,ZA_6
+6,child,0.010075707,Familial matters,ZA_6
+6,live,0.009608639,Familial matters,ZA_6
+6,try,0.009229477,Familial matters,ZA_6
+6,tell,0.008968616,Familial matters,ZA_6
+6,thing,0.00883829,Familial matters,ZA_6
+6,life,0.008760876,Familial matters,ZA_6
+6,start,0.00853117,Familial matters,ZA_6
+6,friend,0.00852543,Familial matters,ZA_6
+6,year,0.007502278,Familial matters,ZA_6
+6,stay,0.007375978,Familial matters,ZA_6
+6,old,0.007338709,Familial matters,ZA_6
+6,love,0.007066332,Familial matters,ZA_6
+6,look,0.006788261,Familial matters,ZA_6
+7,health,0.057918973,Healthcare and healthcare workers,ZA_7
+7,patient,0.028578352,Healthcare and healthcare workers,ZA_7
+7,hospital,0.019356851,Healthcare and healthcare workers,ZA_7
+7,medical,0.017556772,Healthcare and healthcare workers,ZA_7
+7,worker,0.015576951,Healthcare and healthcare workers,ZA_7
+7,vaccine,0.013645746,Healthcare and healthcare workers,ZA_7
+7,doctor,0.013643732,Healthcare and healthcare workers,ZA_7
+7,risk,0.013381673,Healthcare and healthcare workers,ZA_7
+7,healthcare_worker,0.010379391,Healthcare and healthcare workers,ZA_7
+7,healthcare,0.009541226,Healthcare and healthcare workers,ZA_7
+7,care,0.009301409,Healthcare and healthcare workers,ZA_7
+7,disease,0.00918813,Healthcare and healthcare workers,ZA_7
+7,virus,0.009086888,Healthcare and healthcare workers,ZA_7
+7,oxygen,0.009060298,Healthcare and healthcare workers,ZA_7
+7,nurse,0.008543038,Healthcare and healthcare workers,ZA_7
+7,system,0.00822431,Healthcare and healthcare workers,ZA_7
+7,treatment,0.008163483,Healthcare and healthcare workers,ZA_7
+7,high,0.007840276,Healthcare and healthcare workers,ZA_7
+7,infection,0.007352171,Healthcare and healthcare workers,ZA_7
+7,public,0.007030947,Healthcare and healthcare workers,ZA_7
+8,year,0.02562025,Markets and investment,ZA_8
+8,increase,0.019819757,Markets and investment,ZA_8
+8,sector,0.014908709,Markets and investment,ZA_8
+8,cost,0.013916804,Markets and investment,ZA_8
+8,budget,0.013141568,Markets and investment,ZA_8
+8,debt,0.01238218,Markets and investment,ZA_8
+8,private,0.011523623,Markets and investment,ZA_8
+8,economic,0.010339692,Markets and investment,ZA_8
+8,financial,0.010127587,Markets and investment,ZA_8
+8,investment,0.009903338,Markets and investment,ZA_8
+8,company,0.009743147,Markets and investment,ZA_8
+8,growth,0.00935476,Markets and investment,ZA_8
+8,low,0.009191283,Markets and investment,ZA_8
+8,fund,0.00870174,Markets and investment,ZA_8
+8,state,0.007965796,Markets and investment,ZA_8
+8,market,0.007952441,Markets and investment,ZA_8
+8,high,0.007651791,Markets and investment,ZA_8
+8,price,0.007607421,Markets and investment,ZA_8
+8,income,0.007496579,Markets and investment,ZA_8
+8,job,0.007098856,Markets and investment,ZA_8
+9,lockdown,0.056418296,Lockdown on shops and businesses,ZA_9
+9,business,0.015861787,Lockdown on shops and businesses,ZA_9
+9,food,0.015393479,Lockdown on shops and businesses,ZA_9
+9,buy,0.012372168,Lockdown on shops and businesses,ZA_9
+9,store,0.012132773,Lockdown on shops and businesses,ZA_9
+9,resident,0.011614098,Lockdown on shops and businesses,ZA_9
+9,shop,0.011046795,Lockdown on shops and businesses,ZA_9
+9,sell,0.011043085,Lockdown on shops and businesses,ZA_9
+9,police,0.008956896,Lockdown on shops and businesses,ZA_9
+9,customer,0.008669193,Lockdown on shops and businesses,ZA_9
+9,home,0.008268434,Lockdown on shops and businesses,ZA_9
+9,work,0.008235577,Lockdown on shops and businesses,ZA_9
+9,owner,0.007938774,Lockdown on shops and businesses,ZA_9
+9,street,0.007758867,Lockdown on shops and businesses,ZA_9
+9,essential,0.00723246,Lockdown on shops and businesses,ZA_9
+9,start,0.006895633,Lockdown on shops and businesses,ZA_9
+9,small,0.006151813,Lockdown on shops and businesses,ZA_9
+9,close,0.005909019,Lockdown on shops and businesses,ZA_9
+9,week,0.005774296,Lockdown on shops and businesses,ZA_9
+9,find,0.005610126,Lockdown on shops and businesses,ZA_9
+10,virus,0.021439245,Travel,ZA_10
+10,coronavirus,0.020865943,Travel,ZA_10
+10,travel,0.018039988,Travel,ZA_10
+10,city,0.016565373,Travel,ZA_10
+10,official,0.016369613,Travel,ZA_10
+10,chinese,0.014002192,Travel,ZA_10
+10,country,0.013624254,Travel,ZA_10
+10,authority,0.012976278,Travel,ZA_10
+10,quarantine,0.010178347,Travel,ZA_10
+10,outbreak,0.010092221,Travel,ZA_10
+10,return,0.009141034,Travel,ZA_10
+10,flight,0.007383313,Travel,ZA_10
+10,case,0.007255462,Travel,ZA_10
+10,market,0.006757708,Travel,ZA_10
+10,border,0.00667579,Travel,ZA_10
+10,international,0.006664908,Travel,ZA_10
+10,man,0.006106973,Travel,ZA_10
+10,novel_coronavirus,0.005961284,Travel,ZA_10
+10,citizen,0.005774329,Travel,ZA_10
+10,home,0.005695854,Travel,ZA_10
+11,lockdown,0.067098327,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,level,0.062929653,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,allow,0.02367772,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,regulation,0.018634051,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,restriction,0.01822059,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,business,0.010630949,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,activity,0.010309864,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,reopen,0.00980008,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,restaurant,0.009523903,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,tourism,0.009182754,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,open,0.009066208,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,remain,0.008678401,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,industry,0.008286886,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,risk,0.008039907,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,announce,0.008030107,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,relate,0.007421323,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,place,0.007253253,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,measure,0.00713753,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,ease,0.006779724,"Lockdown restrictions on restaurants, and tourism",ZA_11
+11,add,0.006658773,"Lockdown restrictions on restaurants, and tourism",ZA_11
+12,alcohol,0.066710964,Alcohol and cigarette ban,ZA_12
+12,ban,0.042484935,Alcohol and cigarette ban,ZA_12
+12,sale,0.029312737,Alcohol and cigarette ban,ZA_12
+12,cigarette,0.021445742,Alcohol and cigarette ban,ZA_12
+12,regulation,0.015428456,Alcohol and cigarette ban,ZA_12
+12,liquor,0.013019373,Alcohol and cigarette ban,ZA_12
+12,decision,0.011815216,Alcohol and cigarette ban,ZA_12
+12,court,0.011019669,Alcohol and cigarette ban,ZA_12
+12,tobacco,0.010722865,Alcohol and cigarette ban,ZA_12
+12,reader,0.008898973,Alcohol and cigarette ban,ZA_12
+12,industry,0.00799864,Alcohol and cigarette ban,ZA_12
+12,harm,0.006631626,Alcohol and cigarette ban,ZA_12
+12,study,0.006559956,Alcohol and cigarette ban,ZA_12
+12,argue,0.006229743,Alcohol and cigarette ban,ZA_12
+12,smoker,0.006176878,Alcohol and cigarette ban,ZA_12
+12,government,0.006141071,Alcohol and cigarette ban,ZA_12
+12,product,0.005670347,Alcohol and cigarette ban,ZA_12
+12,drink,0.005548896,Alcohol and cigarette ban,ZA_12
+12,wine,0.005127445,Alcohol and cigarette ban,ZA_12
+12,lift,0.005012603,Alcohol and cigarette ban,ZA_12
+13,school,0.114089452,Education,ZA_13
+13,child,0.038288627,Education,ZA_13
+13,education,0.021475211,Education,ZA_13
+13,pupil,0.01913345,Education,ZA_13
+13,reopen,0.019098056,Education,ZA_13
+13,teacher,0.018334594,Education,ZA_13
+13,student,0.018057827,Education,ZA_13
+13,return,0.016994501,Education,ZA_13
+13,parent,0.015887918,Education,ZA_13
+13,learner,0.015575572,Education,ZA_13
+13,department,0.010555852,Education,ZA_13
+13,ready,0.007004724,Education,ZA_13
+13,grade,0.006648807,Education,ZA_13
+13,academic,0.006110715,Education,ZA_13
+13,open,0.006045275,Education,ZA_13
+13,class,0.005805133,Education,ZA_13
+13,year,0.005581818,Education,ZA_13
+13,union,0.005350405,Education,ZA_13
+13,safety,0.005181487,Education,ZA_13
+13,university,0.004949385,Education,ZA_13
+14,party,0.022426454,"Politics, corruptions, and elections",ZA_14
+14,leader,0.013685087,"Politics, corruptions, and elections",ZA_14
+14,political,0.0116756,"Politics, corruptions, and elections",ZA_14
+14,president,0.011561091,"Politics, corruptions, and elections",ZA_14
+14,land,0.011464245,"Politics, corruptions, and elections",ZA_14
+14,election,0.011133086,"Politics, corruptions, and elections",ZA_14
+14,state,0.011107055,"Politics, corruptions, and elections",ZA_14
+14,tweet,0.008527319,"Politics, corruptions, and elections",ZA_14
+14,vote,0.007883612,"Politics, corruptions, and elections",ZA_14
+14,minister,0.007174737,"Politics, corruptions, and elections",ZA_14
+14,member,0.006699526,"Politics, corruptions, and elections",ZA_14
+14,corruption,0.006656105,"Politics, corruptions, and elections",ZA_14
+14,year,0.006373756,"Politics, corruptions, and elections",ZA_14
+14,win,0.006209873,"Politics, corruptions, and elections",ZA_14
+14,lead,0.006155435,"Politics, corruptions, and elections",ZA_14
+14,hold,0.006077906,"Politics, corruptions, and elections",ZA_14
+14,poll,0.005952721,"Politics, corruptions, and elections",ZA_14
+14,campaign,0.005848406,"Politics, corruptions, and elections",ZA_14
+14,virtual,0.005517076,"Politics, corruptions, and elections",ZA_14
+14,african,0.005423631,"Politics, corruptions, and elections",ZA_14
+15,woman,0.030983716,Racism and human rights,ZA_15
+15,black,0.028451962,Racism and human rights,ZA_15
+15,violence,0.012394521,Racism and human rights,ZA_15
+15,social,0.012164474,Racism and human rights,ZA_15
+15,right,0.011853741,Racism and human rights,ZA_15
+15,white,0.010130106,Racism and human rights,ZA_15
+15,freedom,0.009319542,Racism and human rights,ZA_15
+15,apartheid,0.009268106,Racism and human rights,ZA_15
+15,force,0.008992018,Racism and human rights,ZA_15
+15,man,0.007449756,Racism and human rights,ZA_15
+15,inequality,0.006668482,Racism and human rights,ZA_15
+15,society,0.006496929,Racism and human rights,ZA_15
+15,poor,0.00642396,Racism and human rights,ZA_15
+15,racism,0.006204595,Racism and human rights,ZA_15
+15,human_right,0.006065471,Racism and human rights,ZA_15
+15,year,0.006015034,Racism and human rights,ZA_15
+15,curfew,0.005992437,Racism and human rights,ZA_15
+15,group,0.005801085,Racism and human rights,ZA_15
+15,movement,0.005291968,Racism and human rights,ZA_15
+15,add,0.005137688,Racism and human rights,ZA_15
+16,test,0.072242931,Coronavirus testing backlog,ZA_16
+16,testing,0.032404713,Coronavirus testing backlog,ZA_16
+16,day,0.02060939,Coronavirus testing backlog,ZA_16
+16,result,0.016899496,Coronavirus testing backlog,ZA_16
+16,kit,0.014430922,Coronavirus testing backlog,ZA_16
+16,sample,0.011461971,Coronavirus testing backlog,ZA_16
+16,backlog,0.010925677,Coronavirus testing backlog,ZA_16
+16,laboratory,0.010684629,Coronavirus testing backlog,ZA_16
+16,report,0.009691094,Coronavirus testing backlog,ZA_16
+16,private,0.009658533,Coronavirus testing backlog,ZA_16
+16,prisoner,0.00699328,Coronavirus testing backlog,ZA_16
+16,strategy,0.006679979,Coronavirus testing backlog,ZA_16
+16,prison,0.006677283,Coronavirus testing backlog,ZA_16
+16,inmate,0.006304688,Coronavirus testing backlog,ZA_16
+16,process,0.006298663,Coronavirus testing backlog,ZA_16
+16,lab,0.006030725,Coronavirus testing backlog,ZA_16
+16,find,0.006003573,Coronavirus testing backlog,ZA_16
+16,time,0.00532791,Coronavirus testing backlog,ZA_16
+16,accord,0.005092346,Coronavirus testing backlog,ZA_16
+16,figure,0.005028981,Coronavirus testing backlog,ZA_16
+17,police,0.057257999,Policing and arrests,ZA_17
+17,arrest,0.026223175,Policing and arrests,ZA_17
+17,investigation,0.020128824,Policing and arrests,ZA_17
+17,officer,0.01696129,Policing and arrests,ZA_17
+17,corruption,0.013966455,Policing and arrests,ZA_17
+17,man,0.013162433,Policing and arrests,ZA_17
+17,charge,0.012811188,Policing and arrests,ZA_17
+17,allegedly,0.011842235,Policing and arrests,ZA_17
+17,report,0.011367789,Policing and arrests,ZA_17
+17,allege,0.010121834,Policing and arrests,ZA_17
+17,protest,0.009727695,Policing and arrests,ZA_17
+17,incident,0.009117199,Policing and arrests,ZA_17
+17,municipality,0.008337127,Policing and arrests,ZA_17
+17,allegation,0.008155538,Policing and arrests,ZA_17
+17,body,0.008054784,Policing and arrests,ZA_17
+17,official,0.0072501,Policing and arrests,ZA_17
+17,investigate,0.007138904,Policing and arrests,ZA_17
+17,accuse,0.007003183,Policing and arrests,ZA_17
+17,matter,0.006834214,Policing and arrests,ZA_17
+17,tell,0.00682668,Policing and arrests,ZA_17
+18,supply,0.026484653,Medical supply shortage,ZA_18
+18,water,0.023699574,Medical supply shortage,ZA_18
+18,provide,0.017955899,Medical supply shortage,ZA_18
+18,company,0.016712418,Medical supply shortage,ZA_18
+18,ventilator,0.016632432,Medical supply shortage,ZA_18
+18,produce,0.01612824,Medical supply shortage,ZA_18
+18,community,0.013379987,Medical supply shortage,ZA_18
+18,mask,0.011078931,Medical supply shortage,ZA_18
+18,access,0.011011937,Medical supply shortage,ZA_18
+18,help,0.009868652,Medical supply shortage,ZA_18
+18,use,0.009184182,Medical supply shortage,ZA_18
+18,equipment,0.008798345,Medical supply shortage,ZA_18
+18,supplier,0.008029545,Medical supply shortage,ZA_18
+18,material,0.007672041,Medical supply shortage,ZA_18
+18,project,0.007459326,Medical supply shortage,ZA_18
+18,initiative,0.006369217,Medical supply shortage,ZA_18
+18,production,0.006364484,Medical supply shortage,ZA_18
+18,shortage,0.006344797,Medical supply shortage,ZA_18
+18,local,0.005933862,Medical supply shortage,ZA_18
+18,manufacture,0.005816559,Medical supply shortage,ZA_18
+19,church,0.031799063,Church and places of worship,ZA_19
+19,world,0.016007168,Church and places of worship,ZA_19
+19,change,0.013528559,Church and places of worship,ZA_19
+19,crisis,0.013443681,Church and places of worship,ZA_19
+19,digital,0.013005743,Church and places of worship,ZA_19
+19,leader,0.011558688,Church and places of worship,ZA_19
+19,online,0.010707997,Church and places of worship,ZA_19
+19,service,0.01046871,Church and places of worship,ZA_19
+19,event,0.008696212,Church and places of worship,ZA_19
+19,way,0.00675486,Church and places of worship,ZA_19
+19,attend,0.006463696,Church and places of worship,ZA_19
+19,publisher,0.00604459,Church and places of worship,ZA_19
+19,place_worship,0.005983706,Church and places of worship,ZA_19
+19,member,0.005452452,Church and places of worship,ZA_19
+19,real,0.00544456,Church and places of worship,ZA_19
+19,audience,0.005333861,Church and places of worship,ZA_19
+19,social_medium,0.005053801,Church and places of worship,ZA_19
+19,message,0.005039874,Church and places of worship,ZA_19
+19,religious,0.004828724,Church and places of worship,ZA_19
+19,willing,0.004773239,Church and places of worship,ZA_19
+20,mask,0.037088405,News and media,ZA_20
+20,news,0.029877862,News and media,ZA_20
+20,medium,0.023856826,News and media,ZA_20
+20,information,0.021425411,News and media,ZA_20
+20,journalist,0.015503416,News and media,ZA_20
+20,claim,0.014344528,News and media,ZA_20
+20,face,0.013583381,News and media,ZA_20
+20,post,0.013403579,News and media,ZA_20
+20,report,0.011526917,News and media,ZA_20
+20,group,0.011311388,News and media,ZA_20
+20,pay,0.011114831,News and media,ZA_20
+20,advertising,0.010633517,News and media,ZA_20
+20,content,0.010185388,News and media,ZA_20
+20,public,0.010097872,News and media,ZA_20
+20,newspaper,0.009440111,News and media,ZA_20
+20,company,0.009283609,News and media,ZA_20
+20,app,0.008757902,News and media,ZA_20
+20,account,0.008663805,News and media,ZA_20
+20,tender,0.008141797,News and media,ZA_20
+20,page,0.007452342,News and media,ZA_20
+21,homeless,0.051643632,Homelessness,ZA_21
+21,shelter,0.045826562,Homelessness,ZA_21
+21,refugee,0.041101329,Homelessness,ZA_21
+21,flight,0.030819967,Homelessness,ZA_21
+21,camp,0.022071017,Homelessness,ZA_21
+21,airport,0.019548183,Homelessness,ZA_21
+21,people,0.016431872,Homelessness,ZA_21
+21,passenger,0.015041178,Homelessness,ZA_21
+21,site,0.013356417,Homelessness,ZA_21
+21,pilot,0.011586367,Homelessness,ZA_21
+21,aircraft,0.010645629,Homelessness,ZA_21
+21,pair,0.009547365,Homelessness,ZA_21
+21,number,0.009520144,Homelessness,ZA_21
+21,foreign,0.009002293,Homelessness,ZA_21
+21,crew,0.00846858,Homelessness,ZA_21
+21,fly,0.007858503,Homelessness,ZA_21
+21,airline,0.007849466,Homelessness,ZA_21
+21,group,0.007738526,Homelessness,ZA_21
+21,operation,0.007730517,Homelessness,ZA_21
+21,charter,0.007593166,Homelessness,ZA_21
+22,drug,0.022121144,Legalising pharmaceuticals,ZA_22
+22,obese,0.019807186,Legalising pharmaceuticals,ZA_22
+22,african,0.013520664,Legalising pharmaceuticals,ZA_22
+22,invest,0.012682365,Legalising pharmaceuticals,ZA_22
+22,decontaminate,0.01120582,Legalising pharmaceuticals,ZA_22
+22,chw,0.010108878,Legalising pharmaceuticals,ZA_22
+22,concrete,0.010011571,Legalising pharmaceuticals,ZA_22
+22,baker,0.008944573,Legalising pharmaceuticals,ZA_22
+22,seeker,0.007961047,Legalising pharmaceuticals,ZA_22
+22,pharmaceutical,0.007860063,Legalising pharmaceuticals,ZA_22
+22,prescription,0.007757223,Legalising pharmaceuticals,ZA_22
+22,legalise,0.007193037,Legalising pharmaceuticals,ZA_22
+22,chloroquine,0.006612294,Legalising pharmaceuticals,ZA_22
+22,microplastic,0.006397281,Legalising pharmaceuticals,ZA_22
+22,upwards,0.006057415,Legalising pharmaceuticals,ZA_22
+22,rigorous,0.005993981,Legalising pharmaceuticals,ZA_22
+22,overweight,0.005931362,Legalising pharmaceuticals,ZA_22
+22,traditional,0.005343854,Legalising pharmaceuticals,ZA_22
+22,indigenous,0.005292953,Legalising pharmaceuticals,ZA_22
+22,bird_park,0.005123636,Legalising pharmaceuticals,ZA_22
