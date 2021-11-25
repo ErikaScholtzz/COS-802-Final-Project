@@ -1,0 +1,281 @@
+Topic,Word,P,Label,CountryTopic
+1,people,0.035748698,Mental Health,US_1
+1,time,0.021363584,Mental Health,US_1
+1,work,0.015264837,Mental Health,US_1
+1,want,0.013768652,Mental Health,US_1
+1,way,0.013063866,Mental Health,US_1
+1,need,0.013022385,Mental Health,US_1
+1,thing,0.012608106,Mental Health,US_1
+1,right,0.009395967,Mental Health,US_1
+1,feel,0.009362741,Mental Health,US_1
+1,lot,0.008592078,Mental Health,US_1
+1,look,0.008345817,Mental Health,US_1
+1,good,0.008050783,Mental Health,US_1
+1,life,0.007917647,Mental Health,US_1
+1,help,0.007026203,Mental Health,US_1
+1,change,0.006422774,Mental Health,US_1
+1,come,0.006346919,Mental Health,US_1
+1,talk,0.005760792,Mental Health,US_1
+1,crisis,0.005697432,Mental Health,US_1
+1,tell,0.005672693,Mental Health,US_1
+1,try,0.00566674,Mental Health,US_1
+2,state,0.041492984,Opening and closing of restaurants and stores during lockdowns,US_2
+2,reopen,0.020780655,Opening and closing of restaurants and stores during lockdowns,US_2
+2,order,0.017884035,Opening and closing of restaurants and stores during lockdowns,US_2
+2,business,0.013396201,Opening and closing of restaurants and stores during lockdowns,US_2
+2,open,0.013197188,Opening and closing of restaurants and stores during lockdowns,US_2
+2,close,0.011501504,Opening and closing of restaurants and stores during lockdowns,US_2
+2,restaurant,0.011480861,Opening and closing of restaurants and stores during lockdowns,US_2
+2,city,0.01086395,Opening and closing of restaurants and stores during lockdowns,US_2
+2,home,0.008929314,Opening and closing of restaurants and stores during lockdowns,US_2
+2,public,0.008903319,Opening and closing of restaurants and stores during lockdowns,US_2
+2,stay,0.008863806,Opening and closing of restaurants and stores during lockdowns,US_2
+2,plan,0.00864259,Opening and closing of restaurants and stores during lockdowns,US_2
+2,allow,0.008415481,Opening and closing of restaurants and stores during lockdowns,US_2
+2,week,0.008328984,Opening and closing of restaurants and stores during lockdowns,US_2
+2,local,0.007548091,Opening and closing of restaurants and stores during lockdowns,US_2
+2,announce,0.00728333,Opening and closing of restaurants and stores during lockdowns,US_2
+2,store,0.007140793,Opening and closing of restaurants and stores during lockdowns,US_2
+2,social_distancing,0.00694743,Opening and closing of restaurants and stores during lockdowns,US_2
+2,county,0.006936775,Opening and closing of restaurants and stores during lockdowns,US_2
+2,governor,0.006530944,Opening and closing of restaurants and stores during lockdowns,US_2
+3,market,0.027306775,Stock market and investments,US_3
+3,stock,0.019936126,Stock market and investments,US_3
+3,year,0.017051006,Stock market and investments,US_3
+3,price,0.014766152,Stock market and investments,US_3
+3,investor,0.010432666,Stock market and investments,US_3
+3,economy,0.010103073,Stock market and investments,US_3
+3,share,0.009657857,Stock market and investments,US_3
+3,expect,0.008981454,Stock market and investments,US_3
+3,demand,0.008684625,Stock market and investments,US_3
+3,fall,0.008665425,Stock market and investments,US_3
+3,report,0.008151396,Stock market and investments,US_3
+3,economic,0.008076268,Stock market and investments,US_3
+3,sale,0.007960856,Stock market and investments,US_3
+3,low,0.007351352,Stock market and investments,US_3
+3,quarter,0.007350243,Stock market and investments,US_3
+3,global,0.00731983,Stock market and investments,US_3
+3,high,0.007052009,Stock market and investments,US_3
+3,rise,0.006913874,Stock market and investments,US_3
+3,oil,0.006837745,Stock market and investments,US_3
+3,percent,0.006657018,Stock market and investments,US_3
+4,government,0.011156151,Law and policy,US_4
+4,administration,0.009477982,Law and policy,US_4
+4,bill,0.008401771,Law and policy,US_4
+4,president,0.008174819,Law and policy,US_4
+4,public,0.008032133,Law and policy,US_4
+4,federal,0.007633007,Law and policy,US_4
+4,official,0.007411969,Law and policy,US_4
+4,law,0.00738756,Law and policy,US_4
+4,tell,0.006911433,Law and policy,US_4
+4,claim,0.006776605,Law and policy,US_4
+4,response,0.006520695,Law and policy,US_4
+4,policy,0.006420964,Law and policy,US_4
+4,lawmaker,0.006393974,Law and policy,US_4
+4,american,0.00527885,Law and policy,US_4
+4,country,0.00506867,Law and policy,US_4
+4,tweet,0.005054176,Law and policy,US_4
+4,comment,0.004847174,Law and policy,US_4
+4,issue,0.004835687,Law and policy,US_4
+4,write,0.004425494,Law and policy,US_4
+4,member,0.004268297,Law and policy,US_4
+5,virus,0.034389172,Coronavirus testing and vaccine,US_5
+5,case,0.03159076,Coronavirus testing and vaccine,US_5
+5,coronavirus,0.029411891,Coronavirus testing and vaccine,US_5
+5,test,0.024125313,Coronavirus testing and vaccine,US_5
+5,people,0.017519332,Coronavirus testing and vaccine,US_5
+5,report,0.015203886,Coronavirus testing and vaccine,US_5
+5,death,0.014488301,Coronavirus testing and vaccine,US_5
+5,testing,0.0136319,Coronavirus testing and vaccine,US_5
+5,health,0.012678037,Coronavirus testing and vaccine,US_5
+5,spread,0.012485832,Coronavirus testing and vaccine,US_5
+5,outbreak,0.012403766,Coronavirus testing and vaccine,US_5
+5,vaccine,0.011312735,Coronavirus testing and vaccine,US_5
+5,country,0.011311447,Coronavirus testing and vaccine,US_5
+5,number,0.00974244,Coronavirus testing and vaccine,US_5
+5,infection,0.008801272,Coronavirus testing and vaccine,US_5
+5,disease,0.008435071,Coronavirus testing and vaccine,US_5
+5,patient,0.008164781,Coronavirus testing and vaccine,US_5
+5,official,0.00813716,Coronavirus testing and vaccine,US_5
+5,confirm,0.007453193,Coronavirus testing and vaccine,US_5
+5,new,0.007291755,Coronavirus testing and vaccine,US_5
+6,company,0.058453586,Online business and digital technology,US_6
+6,customer,0.015018268,Online business and digital technology,US_6
+6,business,0.011894249,Online business and digital technology,US_6
+6,product,0.011630527,Online business and digital technology,US_6
+6,new,0.01004157,Online business and digital technology,US_6
+6,online,0.009411173,Online business and digital technology,US_6
+6,service,0.009001354,Online business and digital technology,US_6
+6,technology,0.00890904,Online business and digital technology,US_6
+6,platform,0.007752107,Online business and digital technology,US_6
+6,store,0.007648122,Online business and digital technology,US_6
+6,datum,0.007120358,Online business and digital technology,US_6
+6,app,0.006934006,Online business and digital technology,US_6
+6,sale,0.006885704,Online business and digital technology,US_6
+6,brand,0.00676747,Online business and digital technology,US_6
+6,user,0.006724813,Online business and digital technology,US_6
+6,digital,0.006048352,Online business and digital technology,US_6
+6,employee,0.005951405,Online business and digital technology,US_6
+6,consumer,0.005927926,Online business and digital technology,US_6
+6,industry,0.005282198,Online business and digital technology,US_6
+6,base,0.005162781,Online business and digital technology,US_6
+7,business,0.025643388,Financial relief and loans,US_7
+7,money,0.019670906,Financial relief and loans,US_7
+7,loan,0.018324232,Financial relief and loans,US_7
+7,pay,0.013355765,Financial relief and loans,US_7
+7,bank,0.013348321,Financial relief and loans,US_7
+7,payment,0.013328663,Financial relief and loans,US_7
+7,fund,0.013163842,Financial relief and loans,US_7
+7,small,0.013100625,Financial relief and loans,US_7
+7,tax,0.011866716,Financial relief and loans,US_7
+7,program,0.010914756,Financial relief and loans,US_7
+7,receive,0.010264402,Financial relief and loans,US_7
+7,financial,0.010247566,Financial relief and loans,US_7
+7,cost,0.007920027,Financial relief and loans,US_7
+7,income,0.007885828,Financial relief and loans,US_7
+7,funding,0.007424321,Financial relief and loans,US_7
+7,government,0.007381873,Financial relief and loans,US_7
+7,relief,0.006715081,Financial relief and loans,US_7
+7,help,0.006626852,Financial relief and loans,US_7
+7,cash,0.006614166,Financial relief and loans,US_7
+7,plan,0.006195306,Financial relief and loans,US_7
+8,home,0.034028221,Healthcare and healthcare workers,US_8
+8,care,0.033142131,Healthcare and healthcare workers,US_8
+8,health,0.025099916,Healthcare and healthcare workers,US_8
+8,hospital,0.024570974,Healthcare and healthcare workers,US_8
+8,mask,0.024417562,Healthcare and healthcare workers,US_8
+8,patient,0.017655188,Healthcare and healthcare workers,US_8
+8,medical,0.016641524,Healthcare and healthcare workers,US_8
+8,worker,0.01543453,Healthcare and healthcare workers,US_8
+8,family,0.01288903,Healthcare and healthcare workers,US_8
+8,need,0.011679199,Healthcare and healthcare workers,US_8
+8,supply,0.011343051,Healthcare and healthcare workers,US_8
+8,child,0.010696524,Healthcare and healthcare workers,US_8
+8,work,0.010255128,Healthcare and healthcare workers,US_8
+8,facility,0.00921747,Healthcare and healthcare workers,US_8
+8,face,0.008925267,Healthcare and healthcare workers,US_8
+8,day,0.008512056,Healthcare and healthcare workers,US_8
+8,staff,0.007459318,Healthcare and healthcare workers,US_8
+8,doctor,0.006980258,Healthcare and healthcare workers,US_8
+8,ventilator,0.006869781,Healthcare and healthcare workers,US_8
+8,help,0.006448811,Healthcare and healthcare workers,US_8
+9,year,0.017825287,Sports and entertainment,US_9
+9,game,0.016863134,Sports and entertainment,US_9
+9,season,0.015955197,Sports and entertainment,US_9
+9,play,0.015431516,Sports and entertainment,US_9
+9,team,0.013317805,Sports and entertainment,US_9
+9,player,0.013029099,Sports and entertainment,US_9
+9,event,0.01197668,Sports and entertainment,US_9
+9,film,0.009165147,Sports and entertainment,US_9
+9,sport,0.008951751,Sports and entertainment,US_9
+9,tv,0.007460667,Sports and entertainment,US_9
+9,movie,0.006793582,Sports and entertainment,US_9
+9,release,0.006639993,Sports and entertainment,US_9
+9,fan,0.006488389,Sports and entertainment,US_9
+9,stream,0.006075312,Sports and entertainment,US_9
+9,big,0.0053891,Sports and entertainment,US_9
+9,cancel,0.005235057,Sports and entertainment,US_9
+9,host,0.004966501,Sports and entertainment,US_9
+9,schedule,0.004906087,Sports and entertainment,US_9
+9,date,0.004722923,Sports and entertainment,US_9
+9,series,0.00471287,Sports and entertainment,US_9
+10,food,0.017965002,Food,US_10
+10,home,0.007471853,Food,US_10
+10,music,0.007290071,Food,US_10
+10,meal,0.005836845,Food,US_10
+10,good,0.005475416,Food,US_10
+10,eat,0.005409919,Food,US_10
+10,artist,0.004904958,Food,US_10
+10,day,0.004774087,Food,US_10
+10,find,0.004735524,Food,US_10
+10,buy,0.004342013,Food,US_10
+10,kid,0.004186836,Food,US_10
+10,post,0.004171382,Food,US_10
+10,art,0.004008161,Food,US_10
+10,item,0.003846768,Food,US_10
+10,love,0.003824398,Food,US_10
+10,house,0.003779055,Food,US_10
+10,wife,0.00377654,Food,US_10
+10,family,0.003754031,Food,US_10
+10,sell,0.00369058,Food,US_10
+10,song,0.003617939,Food,US_10
+11,campaign,0.020459848,Elections,US_11
+11,state,0.019732004,Elections,US_11
+11,election,0.016875183,Elections,US_11
+11,vote,0.015619389,Elections,US_11
+11,voter,0.012357562,Elections,US_11
+11,poll,0.011783115,Elections,US_11
+11,win,0.010187802,Elections,US_11
+11,primary,0.008780157,Elections,US_11
+11,percent,0.008601256,Elections,US_11
+11,party,0.008425271,Elections,US_11
+11,lead,0.008300178,Elections,US_11
+11,president,0.008203255,Elections,US_11
+11,democratic,0.008185965,Elections,US_11
+11,support,0.008006616,Elections,US_11
+11,race,0.007967153,Elections,US_11
+11,political,0.006808247,Elections,US_11
+11,ad,0.00616145,Elections,US_11
+11,candidate,0.005854072,Elections,US_11
+11,republican,0.005432117,Elections,US_11
+11,group,0.005013681,Elections,US_11
+12,black,0.016847592,BLM Protests,US_12
+12,woman,0.014619415,BLM Protests,US_12
+12,story,0.014487029,BLM Protests,US_12
+12,police,0.014016615,BLM Protests,US_12
+12,man,0.012852531,BLM Protests,US_12
+12,protest,0.01212788,BLM Protests,US_12
+12,community,0.008569738,BLM Protests,US_12
+12,book,0.007201075,BLM Protests,US_12
+12,white,0.006527085,BLM Protests,US_12
+12,city,0.006461981,BLM Protests,US_12
+12,live,0.006349615,BLM Protests,US_12
+12,life,0.005538925,BLM Protests,US_12
+12,officer,0.005216936,BLM Protests,US_12
+12,protester,0.004832806,BLM Protests,US_12
+12,death,0.004398525,BLM Protests,US_12
+12,night,0.004254726,BLM Protests,US_12
+12,color,0.003800317,BLM Protests,US_12
+12,street,0.003726002,BLM Protests,US_12
+12,old,0.003669898,BLM Protests,US_12
+12,violence,0.003632904,BLM Protests,US_12
+13,worker,0.042972714,Education and unemployment,US_13
+13,employee,0.041452002,Education and unemployment,US_13
+13,school,0.04010772,Education and unemployment,US_13
+13,student,0.037424792,Education and unemployment,US_13
+13,job,0.033239931,Education and unemployment,US_13
+13,work,0.02847722,Education and unemployment,US_13
+13,pay,0.017075155,Education and unemployment,US_13
+13,week,0.017041959,Education and unemployment,US_13
+13,unemployment,0.013310662,Education and unemployment,US_13
+13,employer,0.011327098,Education and unemployment,US_13
+13,child,0.011188058,Education and unemployment,US_13
+13,college,0.009831419,Education and unemployment,US_13
+13,leave,0.009436577,Education and unemployment,US_13
+13,lay,0.008551428,Education and unemployment,US_13
+13,benefit,0.008135232,Education and unemployment,US_13
+13,claim,0.008017485,Education and unemployment,US_13
+13,furlough,0.007931009,Education and unemployment,US_13
+13,district,0.007518582,Education and unemployment,US_13
+13,program,0.00744398,Education and unemployment,US_13
+13,education,0.00738448,Education and unemployment,US_13
+14,travel,0.045506384,Travel and tourism,US_14
+14,flight,0.025537608,Travel and tourism,US_14
+14,airline,0.01962875,Travel and tourism,US_14
+14,country,0.015890809,Travel and tourism,US_14
+14,hotel,0.014431074,Travel and tourism,US_14
+14,passenger,0.013124639,Travel and tourism,US_14
+14,cancel,0.011178971,Travel and tourism,US_14
+14,quarantine,0.010729835,Travel and tourism,US_14
+14,change,0.009157956,Travel and tourism,US_14
+14,industry,0.00907631,Travel and tourism,US_14
+14,world,0.008928998,Travel and tourism,US_14
+14,trip,0.008445362,Travel and tourism,US_14
+14,border,0.008339108,Travel and tourism,US_14
+14,ticket,0.008126752,Travel and tourism,US_14
+14,ship,0.008049391,Travel and tourism,US_14
+14,international,0.007917175,Travel and tourism,US_14
+14,fly,0.007259048,Travel and tourism,US_14
+14,traveler,0.006971772,Travel and tourism,US_14
+14,tourism,0.006321219,Travel and tourism,US_14
+14,plane,0.005795019,Travel and tourism,US_14

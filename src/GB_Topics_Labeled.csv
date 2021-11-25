@@ -1,0 +1,361 @@
+Topic,Word,P,Label,CountryTopic
+1,government,0.020227963,Public health response,GB_1
+1,country,0.009389767,Public health response,GB_1
+1,need,0.009236247,Public health response,GB_1
+1,tell,0.008945948,Public health response,GB_1
+1,week,0.008118518,Public health response,GB_1
+1,plan,0.007628425,Public health response,GB_1
+1,add,0.007303129,Public health response,GB_1
+1,continue,0.007173548,Public health response,GB_1
+1,warn,0.006986645,Public health response,GB_1
+1,measure,0.006873498,Public health response,GB_1
+1,come,0.006694279,Public health response,GB_1
+1,decision,0.005890117,Public health response,GB_1
+1,pandemic,0.005653684,Public health response,GB_1
+1,minister,0.005633075,Public health response,GB_1
+1,public,0.00511021,Public health response,GB_1
+1,today,0.005007057,Public health response,GB_1
+1,ask,0.004883473,Public health response,GB_1
+1,health,0.004879206,Public health response,GB_1
+1,place,0.004757752,Public health response,GB_1
+1,response,0.004755904,Public health response,GB_1
+2,club,0.012979488,Sports and entertainment,GB_2
+2,player,0.012367397,Sports and entertainment,GB_2
+2,year,0.011190216,Sports and entertainment,GB_2
+2,play,0.011077097,Sports and entertainment,GB_2
+2,season,0.009889153,Sports and entertainment,GB_2
+2,game,0.009396009,Sports and entertainment,GB_2
+2,time,0.008892316,Sports and entertainment,GB_2
+2,look,0.008141725,Sports and entertainment,GB_2
+2,want,0.007888463,Sports and entertainment,GB_2
+2,star,0.007727366,Sports and entertainment,GB_2
+2,team,0.00767821,Sports and entertainment,GB_2
+2,thing,0.006763053,Sports and entertainment,GB_2
+2,fan,0.006409418,Sports and entertainment,GB_2
+2,good,0.006252545,Sports and entertainment,GB_2
+2,love,0.006176353,Sports and entertainment,GB_2
+2,football,0.005995178,Sports and entertainment,GB_2
+2,sport,0.005280963,Sports and entertainment,GB_2
+2,lot,0.004997353,Sports and entertainment,GB_2
+2,film,0.004753466,Sports and entertainment,GB_2
+2,feel,0.004697856,Sports and entertainment,GB_2
+3,business,0.020548241,Financial relief and loans,GB_3
+3,pay,0.01819727,Financial relief and loans,GB_3
+3,company,0.01594889,Financial relief and loans,GB_3
+3,support,0.012963765,Financial relief and loans,GB_3
+3,government,0.011908321,Financial relief and loans,GB_3
+3,money,0.01126493,Financial relief and loans,GB_3
+3,cut,0.009286669,Financial relief and loans,GB_3
+3,loan,0.009118401,Financial relief and loans,GB_3
+3,help,0.008859876,Financial relief and loans,GB_3
+3,payment,0.008402224,Financial relief and loans,GB_3
+3,cost,0.008049278,Financial relief and loans,GB_3
+3,financial,0.008028592,Financial relief and loans,GB_3
+3,bank,0.00789833,Financial relief and loans,GB_3
+3,job,0.007797008,Financial relief and loans,GB_3
+3,firm,0.007777294,Financial relief and loans,GB_3
+3,crisis,0.007702801,Financial relief and loans,GB_3
+3,scheme,0.007375939,Financial relief and loans,GB_3
+3,fund,0.007325119,Financial relief and loans,GB_3
+3,offer,0.006562449,Financial relief and loans,GB_3
+3,income,0.006457949,Financial relief and loans,GB_3
+4,market,0.026561402,Stock market and investment,GB_4
+4,price,0.016757879,Stock market and investment,GB_4
+4,demand,0.013307455,Stock market and investment,GB_4
+4,fall,0.010851031,Stock market and investment,GB_4
+4,year,0.010280976,Stock market and investment,GB_4
+4,share,0.010230928,Stock market and investment,GB_4
+4,company,0.009698218,Stock market and investment,GB_4
+4,global,0.009651978,Stock market and investment,GB_4
+4,rise,0.009561951,Stock market and investment,GB_4
+4,low,0.009276289,Stock market and investment,GB_4
+4,stock,0.009059865,Stock market and investment,GB_4
+4,trade,0.008330742,Stock market and investment,GB_4
+4,sale,0.007900178,Stock market and investment,GB_4
+4,oil,0.007687477,Stock market and investment,GB_4
+4,investor,0.007596092,Stock market and investment,GB_4
+4,cut,0.007571317,Stock market and investment,GB_4
+4,production,0.007379967,Stock market and investment,GB_4
+4,analyst,0.006688447,Stock market and investment,GB_4
+4,economic,0.006677049,Stock market and investment,GB_4
+4,quarter,0.006523949,Stock market and investment,GB_4
+5,people,0.039281033,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,reopen,0.0271475,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,open,0.026628684,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,allow,0.022129329,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,lockdown,0.019020338,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,social_distancing,0.017306995,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,rule,0.017122023,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,restaurant,0.013109692,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,restriction,0.012675027,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,pub,0.0126229,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,close,0.011289987,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,business,0.009734752,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,stay,0.009664439,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,measure,0.009172686,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,home,0.008810064,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,shop,0.007777653,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,metre,0.00596205,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,limit,0.005919681,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,guideline,0.005884047,Opening and closing of restaurants and pubs during lockdowns,GB_5
+5,bar,0.005855952,Opening and closing of restaurants and pubs during lockdowns,GB_5
+6,people,0.046656407,Family care,GB_6
+6,home,0.034213539,Family care,GB_6
+6,care,0.027493505,Family care,GB_6
+6,child,0.026520787,Family care,GB_6
+6,school,0.025214143,Family care,GB_6
+6,family,0.020366613,Family care,GB_6
+6,help,0.020345137,Family care,GB_6
+6,need,0.018366328,Family care,GB_6
+6,hospital,0.013479523,Family care,GB_6
+6,life,0.012918108,Family care,GB_6
+6,support,0.011312899,Family care,GB_6
+6,day,0.011067267,Family care,GB_6
+6,time,0.011011366,Family care,GB_6
+6,feel,0.009350097,Family care,GB_6
+6,parent,0.009234535,Family care,GB_6
+6,community,0.007940611,Family care,GB_6
+6,charity,0.006877495,Family care,GB_6
+6,nurse,0.006663858,Family care,GB_6
+6,staff,0.006349885,Family care,GB_6
+6,vulnerable,0.006173139,Family care,GB_6
+7,president,0.010807627,Elections,GB_7
+7,party,0.009452218,Elections,GB_7
+7,campaign,0.008555751,Elections,GB_7
+7,vote,0.007730997,Elections,GB_7
+7,political,0.007257076,Elections,GB_7
+7,election,0.006867955,Elections,GB_7
+7,claim,0.006688019,Elections,GB_7
+7,state,0.006602196,Elections,GB_7
+7,law,0.006541644,Elections,GB_7
+7,leader,0.006494758,Elections,GB_7
+7,image,0.005993543,Elections,GB_7
+7,power,0.005955104,Elections,GB_7
+7,right,0.005287381,Elections,GB_7
+7,win,0.00445593,Elections,GB_7
+7,tweet,0.004395317,Elections,GB_7
+7,lead,0.004309845,Elections,GB_7
+7,voter,0.004219866,Elections,GB_7
+7,american,0.004180788,Elections,GB_7
+7,write,0.004055716,Elections,GB_7
+7,administration,0.003817447,Elections,GB_7
+8,case,0.058284055,"Coronavirus outbreak, infections, and deaths",GB_8
+8,state,0.04267966,"Coronavirus outbreak, infections, and deaths",GB_8
+8,death,0.030328834,"Coronavirus outbreak, infections, and deaths",GB_8
+8,people,0.027874537,"Coronavirus outbreak, infections, and deaths",GB_8
+8,virus,0.022992175,"Coronavirus outbreak, infections, and deaths",GB_8
+8,coronavirus,0.02283093,"Coronavirus outbreak, infections, and deaths",GB_8
+8,report,0.020241851,"Coronavirus outbreak, infections, and deaths",GB_8
+8,city,0.019705359,"Coronavirus outbreak, infections, and deaths",GB_8
+8,number,0.018396605,"Coronavirus outbreak, infections, and deaths",GB_8
+8,outbreak,0.018391097,"Coronavirus outbreak, infections, and deaths",GB_8
+8,country,0.018213723,"Coronavirus outbreak, infections, and deaths",GB_8
+8,infection,0.016249785,"Coronavirus outbreak, infections, and deaths",GB_8
+8,spread,0.016229523,"Coronavirus outbreak, infections, and deaths",GB_8
+8,new,0.015918931,"Coronavirus outbreak, infections, and deaths",GB_8
+8,official,0.013085235,"Coronavirus outbreak, infections, and deaths",GB_8
+8,confirm,0.01300986,"Coronavirus outbreak, infections, and deaths",GB_8
+8,day,0.011443981,"Coronavirus outbreak, infections, and deaths",GB_8
+8,resident,0.010375237,"Coronavirus outbreak, infections, and deaths",GB_8
+8,health,0.009575867,"Coronavirus outbreak, infections, and deaths",GB_8
+8,order,0.009424345,"Coronavirus outbreak, infections, and deaths",GB_8
+9,test,0.04060277,Coronavirus testing and vaccine,GB_9
+9,virus,0.03103758,Coronavirus testing and vaccine,GB_9
+9,patient,0.026710246,Coronavirus testing and vaccine,GB_9
+9,hospital,0.019757418,Coronavirus testing and vaccine,GB_9
+9,testing,0.016797801,Coronavirus testing and vaccine,GB_9
+9,symptom,0.012737088,Coronavirus testing and vaccine,GB_9
+9,people,0.012097342,Coronavirus testing and vaccine,GB_9
+9,vaccine,0.011953936,Coronavirus testing and vaccine,GB_9
+9,chinese,0.011652541,Coronavirus testing and vaccine,GB_9
+9,doctor,0.010138131,Coronavirus testing and vaccine,GB_9
+9,health,0.009862488,Coronavirus testing and vaccine,GB_9
+9,disease,0.009744043,Coronavirus testing and vaccine,GB_9
+9,drug,0.009533078,Coronavirus testing and vaccine,GB_9
+9,medical,0.009206368,Coronavirus testing and vaccine,GB_9
+9,treatment,0.007883542,Coronavirus testing and vaccine,GB_9
+9,infect,0.007442365,Coronavirus testing and vaccine,GB_9
+9,result,0.007119296,Coronavirus testing and vaccine,GB_9
+9,develop,0.006665453,Coronavirus testing and vaccine,GB_9
+9,infection,0.006519967,Coronavirus testing and vaccine,GB_9
+9,treat,0.006093667,Coronavirus testing and vaccine,GB_9
+10,police,0.025204098,Protests,GB_10
+10,woman,0.017830715,Protests,GB_10
+10,man,0.014345195,Protests,GB_10
+10,tell,0.01303831,Protests,GB_10
+10,officer,0.012153483,Protests,GB_10
+10,family,0.009507827,Protests,GB_10
+10,protest,0.007671133,Protests,GB_10
+10,old,0.007333125,Protests,GB_10
+10,black,0.007132577,Protests,GB_10
+10,mother,0.006937789,Protests,GB_10
+10,video,0.006919759,Protests,GB_10
+10,friend,0.00594101,Protests,GB_10
+10,arrest,0.005627728,Protests,GB_10
+10,post,0.005541981,Protests,GB_10
+10,force,0.005235928,Protests,GB_10
+10,die,0.00503851,Protests,GB_10
+10,daughter,0.004862186,Protests,GB_10
+10,court,0.004855614,Protests,GB_10
+10,incident,0.004804542,Protests,GB_10
+10,street,0.004766598,Protests,GB_10
+11,cent,0.035833906,Economic growth,GB_11
+11,economy,0.035334766,Economic growth,GB_11
+11,month,0.032411244,Economic growth,GB_11
+11,year,0.03178592,Economic growth,GB_11
+11,rate,0.023749691,Economic growth,GB_11
+11,week,0.015946349,Economic growth,GB_11
+11,percent,0.014969232,Economic growth,GB_11
+11,increase,0.014037958,Economic growth,GB_11
+11,economic,0.013240217,Economic growth,GB_11
+11,datum,0.011823073,Economic growth,GB_11
+11,fall,0.010888364,Economic growth,GB_11
+11,high,0.010372302,Economic growth,GB_11
+11,pandemic,0.009945334,Economic growth,GB_11
+11,rise,0.009896549,Economic growth,GB_11
+11,low,0.00989453,Economic growth,GB_11
+11,expect,0.009847607,Economic growth,GB_11
+11,survey,0.00925009,Economic growth,GB_11
+11,level,0.008618276,Economic growth,GB_11
+11,job,0.008275701,Economic growth,GB_11
+11,quarter,0.00792476,Economic growth,GB_11
+12,store,0.036677048,Supermarkets and store sales,GB_12
+12,customer,0.027915774,Supermarkets and store sales,GB_12
+12,food,0.026150068,Supermarkets and store sales,GB_12
+12,supermarket,0.022096252,Supermarkets and store sales,GB_12
+12,online,0.021055944,Supermarkets and store sales,GB_12
+12,shop,0.018613741,Supermarkets and store sales,GB_12
+12,order,0.01583375,Supermarkets and store sales,GB_12
+12,delivery,0.015558728,Supermarkets and store sales,GB_12
+12,product,0.015537439,Supermarkets and store sales,GB_12
+12,buy,0.013730879,Supermarkets and store sales,GB_12
+12,sale,0.013167676,Supermarkets and store sales,GB_12
+12,retailer,0.011935553,Supermarkets and store sales,GB_12
+12,item,0.011393195,Supermarkets and store sales,GB_12
+12,sell,0.010546832,Supermarkets and store sales,GB_12
+12,hour,0.009922109,Supermarkets and store sales,GB_12
+12,shopper,0.009833748,Supermarkets and store sales,GB_12
+12,stock,0.008376327,Supermarkets and store sales,GB_12
+12,service,0.007960077,Supermarkets and store sales,GB_12
+12,shopping,0.007432611,Supermarkets and store sales,GB_12
+12,essential,0.007037122,Supermarkets and store sales,GB_12
+13,food,0.009869464,Food,GB_13
+13,meal,0.007585276,Food,GB_13
+13,eat,0.007138174,Food,GB_13
+13,use,0.00691063,Food,GB_13
+13,hair,0.00682811,Food,GB_13
+13,clean,0.006041057,Food,GB_13
+13,toilet_paper,0.005772805,Food,GB_13
+13,hand,0.005636002,Food,GB_13
+13,good,0.005451701,Food,GB_13
+13,water,0.005137582,Food,GB_13
+13,cook,0.005032585,Food,GB_13
+13,room,0.004917001,Food,GB_13
+13,day,0.004663229,Food,GB_13
+13,bag,0.0046143,Food,GB_13
+13,garden,0.004266182,Food,GB_13
+13,waste,0.004187678,Food,GB_13
+13,feel,0.004134586,Food,GB_13
+13,sleep,0.004075467,Food,GB_13
+13,kitchen,0.004063462,Food,GB_13
+13,drink,0.003889335,Food,GB_13
+14,travel,0.053421669,Travel and tourism restrictions,GB_14
+14,flight,0.029425558,Travel and tourism restrictions,GB_14
+14,airline,0.024525408,Travel and tourism restrictions,GB_14
+14,cancel,0.020814758,Travel and tourism restrictions,GB_14
+14,quarantine,0.018210504,Travel and tourism restrictions,GB_14
+14,passenger,0.018170942,Travel and tourism restrictions,GB_14
+14,holiday,0.014988433,Travel and tourism restrictions,GB_14
+14,country,0.014351165,Travel and tourism restrictions,GB_14
+14,airport,0.012833923,Travel and tourism restrictions,GB_14
+14,tourist,0.012213729,Travel and tourism restrictions,GB_14
+14,international,0.011750245,Travel and tourism restrictions,GB_14
+14,border,0.011258719,Travel and tourism restrictions,GB_14
+14,industry,0.010998487,Travel and tourism restrictions,GB_14
+14,hotel,0.010814465,Travel and tourism restrictions,GB_14
+14,ban,0.009241961,Travel and tourism restrictions,GB_14
+14,tourism,0.008908702,Travel and tourism restrictions,GB_14
+14,refund,0.008567898,Travel and tourism restrictions,GB_14
+14,fly,0.008369584,Travel and tourism restrictions,GB_14
+14,return,0.008219951,Travel and tourism restrictions,GB_14
+14,restriction,0.007928981,Travel and tourism restrictions,GB_14
+15,student,0.020147078,Education,GB_15
+15,study,0.015787316,Education,GB_15
+15,risk,0.01465317,Education,GB_15
+15,country,0.013806935,Education,GB_15
+15,university,0.011229214,Education,GB_15
+15,world,0.010818009,Education,GB_15
+15,find,0.009182042,Education,GB_15
+15,research,0.008962637,Education,GB_15
+15,health,0.008858517,Education,GB_15
+15,population,0.008038255,Education,GB_15
+15,high,0.008013067,Education,GB_15
+15,pandemic,0.007691192,Education,GB_15
+15,likely,0.007243907,Education,GB_15
+15,group,0.007177887,Education,GB_15
+15,people,0.006972068,Education,GB_15
+15,poor,0.006548866,Education,GB_15
+15,international,0.006294747,Education,GB_15
+15,system,0.006249208,Education,GB_15
+15,education,0.005805588,Education,GB_15
+15,social,0.005626231,Education,GB_15
+16,work,0.136700794,Work and employment,GB_16
+16,worker,0.081291057,Work and employment,GB_16
+16,staff,0.061163947,Work and employment,GB_16
+16,employee,0.022486933,Work and employment,GB_16
+16,home,0.019646006,Work and employment,GB_16
+16,job,0.018496947,Work and employment,GB_16
+16,company,0.011247283,Work and employment,GB_16
+16,office,0.011080153,Work and employment,GB_16
+16,pay,0.011040865,Work and employment,GB_16
+16,employer,0.009642091,Work and employment,GB_16
+16,leave,0.009545528,Work and employment,GB_16
+16,tell,0.009463189,Work and employment,GB_16
+16,safety,0.008726091,Work and employment,GB_16
+16,hour,0.008532931,Work and employment,GB_16
+16,return,0.008110265,Work and employment,GB_16
+16,union,0.00752701,Work and employment,GB_16
+16,colleague,0.00718178,Work and employment,GB_16
+16,sick,0.006099202,Work and employment,GB_16
+16,member,0.005917816,Work and employment,GB_16
+16,service,0.005790795,Work and employment,GB_16
+17,animal,0.019717131,Agriculture,GB_17
+17,farmer,0.010430927,Agriculture,GB_17
+17,farm,0.00941929,Agriculture,GB_17
+17,water,0.008649401,Agriculture,GB_17
+17,property,0.00861278,Agriculture,GB_17
+17,market,0.007624181,Agriculture,GB_17
+17,live,0.006810416,Agriculture,GB_17
+17,human,0.006628565,Agriculture,GB_17
+17,area,0.006576995,Agriculture,GB_17
+17,food,0.006510375,Agriculture,GB_17
+17,sell,0.006215286,Agriculture,GB_17
+17,land,0.006024505,Agriculture,GB_17
+17,plant,0.005798898,Agriculture,GB_17
+17,house,0.00524145,Agriculture,GB_17
+17,trade,0.005234733,Agriculture,GB_17
+17,meat,0.005175382,Agriculture,GB_17
+17,ban,0.005169737,Agriculture,GB_17
+17,wildlife,0.00494297,Agriculture,GB_17
+17,dog,0.004714555,Agriculture,GB_17
+17,image_copyright_caption,0.004491078,Agriculture,GB_17
+18,mask,0.103537597,Coronavirus safety measures,GB_18
+18,wear,0.066395871,Coronavirus safety measures,GB_18
+18,face,0.051757805,Coronavirus safety measures,GB_18
+18,information,0.017385883,Coronavirus safety measures,GB_18
+18,use,0.015628008,Coronavirus safety measures,GB_18
+18,supply,0.010581357,Coronavirus safety measures,GB_18
+18,glove,0.00927334,Coronavirus safety measures,GB_18
+18,guidance,0.008658129,Coronavirus safety measures,GB_18
+18,cover,0.008314051,Coronavirus safety measures,GB_18
+18,email,0.006864777,Coronavirus safety measures,GB_18
+18,protection,0.006759975,Coronavirus safety measures,GB_18
+18,advice,0.006686869,Coronavirus safety measures,GB_18
+18,public,0.006436264,Coronavirus safety measures,GB_18
+18,gown,0.006308649,Coronavirus safety measures,GB_18
+18,visit,0.00623156,Coronavirus safety measures,GB_18
+18,face_covering,0.00610345,Coronavirus safety measures,GB_18
+18,website,0.006075786,Coronavirus safety measures,GB_18
+18,require,0.005816829,Coronavirus safety measures,GB_18
+18,check,0.005746521,Coronavirus safety measures,GB_18
+18,medical,0.005733036,Coronavirus safety measures,GB_18

@@ -1,0 +1,441 @@
+Topic,Word,P,Label,CountryTopic
+1,state,0.033548679,Lockdown restrictions,AU_1
+1,people,0.028361905,Lockdown restrictions,AU_1
+1,restriction,0.02249375,Lockdown restrictions,AU_1
+1,border,0.016935445,Lockdown restrictions,AU_1
+1,travel,0.013951881,Lockdown restrictions,AU_1
+1,community,0.010804663,Lockdown restrictions,AU_1
+1,allow,0.010178512,Lockdown restrictions,AU_1
+1,open,0.009713962,Lockdown restrictions,AU_1
+1,place,0.008554714,Lockdown restrictions,AU_1
+1,reopen,0.008307909,Lockdown restrictions,AU_1
+1,week,0.007893502,Lockdown restrictions,AU_1
+1,social_distancing,0.007455031,Lockdown restrictions,AU_1
+1,rule,0.007342646,Lockdown restrictions,AU_1
+1,measure,0.007314228,Lockdown restrictions,AU_1
+1,lockdown,0.006580687,Lockdown restrictions,AU_1
+1,stay,0.006204348,Lockdown restrictions,AU_1
+1,return,0.005956305,Lockdown restrictions,AU_1
+1,plan,0.005927089,Lockdown restrictions,AU_1
+1,ease,0.005911235,Lockdown restrictions,AU_1
+1,number,0.005790765,Lockdown restrictions,AU_1
+2,case,0.055599466,Coronavirus cases and deaths,AU_2
+2,virus,0.027300626,Coronavirus cases and deaths,AU_2
+2,test,0.025995605,Coronavirus cases and deaths,AU_2
+2,coronavirus,0.019763451,Coronavirus cases and deaths,AU_2
+2,country,0.017768949,Coronavirus cases and deaths,AU_2
+2,outbreak,0.017545782,Coronavirus cases and deaths,AU_2
+2,people,0.017072152,Coronavirus cases and deaths,AU_2
+2,new,0.014937521,Coronavirus cases and deaths,AU_2
+2,confirm,0.013618834,Coronavirus cases and deaths,AU_2
+2,day,0.013599687,Coronavirus cases and deaths,AU_2
+2,death,0.012695104,Coronavirus cases and deaths,AU_2
+2,infection,0.012530656,Coronavirus cases and deaths,AU_2
+2,number,0.012118082,Coronavirus cases and deaths,AU_2
+2,report,0.010820596,Coronavirus cases and deaths,AU_2
+2,spread,0.010785375,Coronavirus cases and deaths,AU_2
+2,health,0.010166165,Coronavirus cases and deaths,AU_2
+2,authority,0.009398676,Coronavirus cases and deaths,AU_2
+2,positive,0.009092326,Coronavirus cases and deaths,AU_2
+2,testing,0.008877757,Coronavirus cases and deaths,AU_2
+2,city,0.008028438,Coronavirus cases and deaths,AU_2
+3,time,0.024203306,Social wellbeing,AU_3
+3,family,0.014744413,Social wellbeing,AU_3
+3,thing,0.014296298,Social wellbeing,AU_3
+3,lot,0.01327207,Social wellbeing,AU_3
+3,day,0.013245171,Social wellbeing,AU_3
+3,home,0.012014782,Social wellbeing,AU_3
+3,want,0.011420617,Social wellbeing,AU_3
+3,look,0.010640748,Social wellbeing,AU_3
+3,good,0.009964176,Social wellbeing,AU_3
+3,feel,0.009290758,Social wellbeing,AU_3
+3,work,0.008606548,Social wellbeing,AU_3
+3,come,0.008603386,Social wellbeing,AU_3
+3,people,0.008517897,Social wellbeing,AU_3
+3,try,0.008221786,Social wellbeing,AU_3
+3,life,0.007945196,Social wellbeing,AU_3
+3,live,0.007743817,Social wellbeing,AU_3
+3,start,0.007459702,Social wellbeing,AU_3
+3,old,0.00699245,Social wellbeing,AU_3
+3,friend,0.006853081,Social wellbeing,AU_3
+3,find,0.00675694,Social wellbeing,AU_3
+4,government,0.021778898,Government economic plan,AU_4
+4,pandemic,0.013610964,Government economic plan,AU_4
+4,year,0.010562127,Government economic plan,AU_4
+4,industry,0.010326128,Government economic plan,AU_4
+4,international,0.0102525,Government economic plan,AU_4
+4,country,0.009380331,Government economic plan,AU_4
+4,crisis,0.008237374,Government economic plan,AU_4
+4,economic,0.007932277,Government economic plan,AU_4
+4,project,0.006588807,Government economic plan,AU_4
+4,university,0.006199159,Government economic plan,AU_4
+4,new,0.005908112,Government economic plan,AU_4
+4,australian,0.005837629,Government economic plan,AU_4
+4,local,0.005702513,Government economic plan,AU_4
+4,opportunity,0.005684121,Government economic plan,AU_4
+4,economy,0.005663088,Government economic plan,AU_4
+4,need,0.005286107,Government economic plan,AU_4
+4,sector,0.005262669,Government economic plan,AU_4
+4,world,0.005075938,Government economic plan,AU_4
+4,plan,0.005015435,Government economic plan,AU_4
+4,future,0.004803911,Government economic plan,AU_4
+5,cent,0.081075929,Economic and market growth,AU_5
+5,market,0.023200994,Economic and market growth,AU_5
+5,fall,0.01655281,Economic and market growth,AU_5
+5,economy,0.013365841,Economic and market growth,AU_5
+5,year,0.013297054,Economic and market growth,AU_5
+5,rate,0.01248649,Economic and market growth,AU_5
+5,rise,0.011184748,Economic and market growth,AU_5
+5,economic,0.010806227,Economic and market growth,AU_5
+5,low,0.010263042,Economic and market growth,AU_5
+5,high,0.010239627,Economic and market growth,AU_5
+5,share,0.00939031,Economic and market growth,AU_5
+5,month,0.008712485,Economic and market growth,AU_5
+5,increase,0.008181813,Economic and market growth,AU_5
+5,growth,0.008137682,Economic and market growth,AU_5
+5,expect,0.00806137,Economic and market growth,AU_5
+5,impact,0.007693045,Economic and market growth,AU_5
+5,drop,0.007311238,Economic and market growth,AU_5
+5,global,0.0072644,Economic and market growth,AU_5
+5,quarter,0.007017364,Economic and market growth,AU_5
+5,stock,0.006724632,Economic and market growth,AU_5
+6,work,0.050652169,Employee pay and government support,AU_6
+6,job,0.033818785,Employee pay and government support,AU_6
+6,worker,0.029927226,Employee pay and government support,AU_6
+6,support,0.024220342,Employee pay and government support,AU_6
+6,government,0.021953138,Employee pay and government support,AU_6
+6,business,0.019500075,Employee pay and government support,AU_6
+6,payment,0.014482358,Employee pay and government support,AU_6
+6,pay,0.01311501,Employee pay and government support,AU_6
+6,employee,0.012990272,Employee pay and government support,AU_6
+6,employer,0.00969121,Employee pay and government support,AU_6
+6,staff,0.009130648,Employee pay and government support,AU_6
+6,help,0.00893251,Employee pay and government support,AU_6
+6,package,0.008606301,Employee pay and government support,AU_6
+6,sector,0.007747355,Employee pay and government support,AU_6
+6,lose,0.007675005,Employee pay and government support,AU_6
+6,leave,0.007348863,Employee pay and government support,AU_6
+6,casual,0.006885537,Employee pay and government support,AU_6
+6,need,0.006840861,Employee pay and government support,AU_6
+6,provide,0.006837968,Employee pay and government support,AU_6
+6,receive,0.00672838,Employee pay and government support,AU_6
+7,law,0.009906099,Politics and protests,AU_7
+7,protest,0.009214608,Politics and protests,AU_7
+7,election,0.008435974,Politics and protests,AU_7
+7,political,0.007839869,Politics and protests,AU_7
+7,chinese,0.007719555,Politics and protests,AU_7
+7,party,0.007383043,Politics and protests,AU_7
+7,security,0.006998675,Politics and protests,AU_7
+7,right,0.006596972,Politics and protests,AU_7
+7,campaign,0.006456774,Politics and protests,AU_7
+7,attack,0.006415016,Politics and protests,AU_7
+7,leader,0.006322315,Politics and protests,AU_7
+7,claim,0.00605626,Politics and protests,AU_7
+7,country,0.005428311,Politics and protests,AU_7
+7,official,0.005248897,Politics and protests,AU_7
+7,tell,0.005072659,Politics and protests,AU_7
+7,report,0.004662872,Politics and protests,AU_7
+7,national,0.004533807,Politics and protests,AU_7
+7,vote,0.004444509,Politics and protests,AU_7
+7,rally,0.004418297,Politics and protests,AU_7
+7,accuse,0.004368618,Politics and protests,AU_7
+8,art,0.009086108,Entertainment,AU_8
+8,video,0.006886639,Entertainment,AU_8
+8,film,0.006713981,Entertainment,AU_8
+8,online,0.006393256,Entertainment,AU_8
+8,artist,0.006393177,Entertainment,AU_8
+8,live,0.006212975,Entertainment,AU_8
+8,music,0.005934538,Entertainment,AU_8
+8,share,0.005783577,Entertainment,AU_8
+8,tv,0.005592105,Entertainment,AU_8
+8,way,0.005537269,Entertainment,AU_8
+8,world,0.005472532,Entertainment,AU_8
+8,event,0.005402849,Entertainment,AU_8
+8,watch,0.004865936,Entertainment,AU_8
+8,stream,0.00483957,Entertainment,AU_8
+8,writer,0.0040966,Entertainment,AU_8
+8,book,0.003866483,Entertainment,AU_8
+8,set,0.003763263,Entertainment,AU_8
+8,series,0.003732785,Entertainment,AU_8
+8,audience,0.003720395,Entertainment,AU_8
+8,star,0.003640339,Entertainment,AU_8
+9,company,0.054494798,Retailers and insurance,AU_9
+9,business,0.052673362,Retailers and insurance,AU_9
+9,customer,0.027987123,Retailers and insurance,AU_9
+9,store,0.016635081,Retailers and insurance,AU_9
+9,sale,0.014599518,Retailers and insurance,AU_9
+9,industry,0.011237295,Retailers and insurance,AU_9
+9,service,0.010824892,Retailers and insurance,AU_9
+9,landlord,0.009322841,Retailers and insurance,AU_9
+9,offer,0.009221988,Retailers and insurance,AU_9
+9,retail,0.009098521,Retailers and insurance,AU_9
+9,online,0.008745303,Retailers and insurance,AU_9
+9,tenant,0.008611706,Retailers and insurance,AU_9
+9,retailer,0.008547938,Retailers and insurance,AU_9
+9,small,0.008406459,Retailers and insurance,AU_9
+9,rent,0.008119941,Retailers and insurance,AU_9
+9,owner,0.007757635,Retailers and insurance,AU_9
+9,staff,0.00756947,Retailers and insurance,AU_9
+9,product,0.007420184,Retailers and insurance,AU_9
+9,insurance,0.006982481,Retailers and insurance,AU_9
+9,chief_executive,0.006891914,Retailers and insurance,AU_9
+10,year,0.025944818,Financial relief and loans,AU_10
+10,pay,0.024666958,Financial relief and loans,AU_10
+10,money,0.018862735,Financial relief and loans,AU_10
+10,financial,0.017702328,Financial relief and loans,AU_10
+10,bank,0.015847292,Financial relief and loans,AU_10
+10,tax,0.013517824,Financial relief and loans,AU_10
+10,income,0.013186083,Financial relief and loans,AU_10
+10,loan,0.012571553,Financial relief and loans,AU_10
+10,debt,0.012178492,Financial relief and loans,AU_10
+10,fund,0.011505877,Financial relief and loans,AU_10
+10,cost,0.011470727,Financial relief and loans,AU_10
+10,cash,0.01000809,Financial relief and loans,AU_10
+10,payment,0.008051514,Financial relief and loans,AU_10
+10,budget,0.007256464,Financial relief and loans,AU_10
+10,interest,0.007214186,Financial relief and loans,AU_10
+10,cut,0.007163549,Financial relief and loans,AU_10
+10,revenue,0.006379502,Financial relief and loans,AU_10
+10,investment,0.006013977,Financial relief and loans,AU_10
+10,claim,0.005919996,Financial relief and loans,AU_10
+10,account,0.005728148,Financial relief and loans,AU_10
+11,health,0.030150849,Healthcare and healthcare workers,AU_11
+11,hospital,0.027923081,Healthcare and healthcare workers,AU_11
+11,patient,0.025879666,Healthcare and healthcare workers,AU_11
+11,need,0.024365837,Healthcare and healthcare workers,AU_11
+11,staff,0.021894764,Healthcare and healthcare workers,AU_11
+11,medical,0.016888715,Healthcare and healthcare workers,AU_11
+11,worker,0.016526878,Healthcare and healthcare workers,AU_11
+11,care,0.015940998,Healthcare and healthcare workers,AU_11
+11,home,0.014817262,Healthcare and healthcare workers,AU_11
+11,doctor,0.012391841,Healthcare and healthcare workers,AU_11
+11,work,0.011599802,Healthcare and healthcare workers,AU_11
+11,supply,0.010218542,Healthcare and healthcare workers,AU_11
+11,risk,0.009441575,Healthcare and healthcare workers,AU_11
+11,mask,0.009095076,Healthcare and healthcare workers,AU_11
+11,nurse,0.008257912,Healthcare and healthcare workers,AU_11
+11,aged_care,0.007696372,Healthcare and healthcare workers,AU_11
+11,healthcare,0.00739122,Healthcare and healthcare workers,AU_11
+11,ventilator,0.006701487,Healthcare and healthcare workers,AU_11
+11,treat,0.006270261,Healthcare and healthcare workers,AU_11
+11,facility,0.006222915,Healthcare and healthcare workers,AU_11
+12,property,0.05193891,Property market,AU_12
+12,home,0.047504559,Property market,AU_12
+12,buyer,0.02546718,Property market,AU_12
+12,market,0.024909275,Property market,AU_12
+12,sell,0.023986649,Property market,AU_12
+12,house,0.02374731,Property market,AU_12
+12,price,0.021578589,Property market,AU_12
+12,sale,0.020541744,Property market,AU_12
+12,auction,0.019146806,Property market,AU_12
+12,housing,0.011967008,Property market,AU_12
+12,agent,0.010796057,Property market,AU_12
+12,buy,0.010654695,Property market,AU_12
+12,rental,0.009510764,Property market,AU_12
+12,suburb,0.009371461,Property market,AU_12
+12,rent,0.008535496,Property market,AU_12
+12,bedroom,0.008454191,Property market,AU_12
+12,offer,0.007322102,Property market,AU_12
+12,area,0.007263409,Property market,AU_12
+12,list,0.007189785,Property market,AU_12
+12,apartment,0.00706133,Property market,AU_12
+13,flight,0.032009009,Sports and travel,AU_13
+13,airline,0.026806585,Sports and travel,AU_13
+13,club,0.021844216,Sports and travel,AU_13
+13,game,0.020373434,Sports and travel,AU_13
+13,player,0.019838065,Sports and travel,AU_13
+13,season,0.017861826,Sports and travel,AU_13
+13,travel,0.016977509,Sports and travel,AU_13
+13,play,0.015610816,Sports and travel,AU_13
+13,sport,0.013624035,Sports and travel,AU_13
+13,team,0.012372371,Sports and travel,AU_13
+13,cancel,0.009257531,Sports and travel,AU_13
+13,fly,0.008842612,Sports and travel,AU_13
+13,football,0.008534914,Sports and travel,AU_13
+13,competition,0.008262363,Sports and travel,AU_13
+13,international,0.007064316,Sports and travel,AU_13
+13,match,0.007036404,Sports and travel,AU_13
+13,passenger,0.007019757,Sports and travel,AU_13
+13,plane,0.00672885,Sports and travel,AU_13
+13,league,0.006214067,Sports and travel,AU_13
+13,return,0.005997016,Sports and travel,AU_13
+14,people,0.077141747,Mental health,AU_14
+14,community,0.034144338,Mental health,AU_14
+14,service,0.017722862,Mental health,AU_14
+14,app,0.016626362,Mental health,AU_14
+14,help,0.013851839,Mental health,AU_14
+14,information,0.013789964,Mental health,AU_14
+14,need,0.012107701,Mental health,AU_14
+14,young,0.010764348,Mental health,AU_14
+14,datum,0.010007705,Mental health,AU_14
+14,access,0.009710901,Mental health,AU_14
+14,mental_health,0.009159631,Mental health,AU_14
+14,phone,0.008795962,Mental health,AU_14
+14,online,0.008732171,Mental health,AU_14
+14,support,0.00871788,Mental health,AU_14
+14,social,0.008474866,Mental health,AU_14
+14,group,0.007698477,Mental health,AU_14
+14,find,0.006499956,Mental health,AU_14
+14,indigenous,0.006449491,Mental health,AU_14
+14,remote,0.006374629,Mental health,AU_14
+14,experience,0.006277762,Mental health,AU_14
+15,school,0.074049577,Education,AU_15
+15,student,0.069610462,Education,AU_15
+15,child,0.053562939,Education,AU_15
+15,parent,0.03034753,Education,AU_15
+15,home,0.024200952,Education,AU_15
+15,family,0.014970441,Education,AU_15
+15,allow,0.014669684,Education,AU_15
+15,open,0.014288642,Education,AU_15
+15,teacher,0.013582435,Education,AU_15
+15,venue,0.012320843,Education,AU_15
+15,pub,0.010182311,Education,AU_15
+15,kid,0.010128513,Education,AU_15
+15,education,0.010068943,Education,AU_15
+15,class,0.009869705,Education,AU_15
+15,return,0.009398338,Education,AU_15
+15,care,0.009171413,Education,AU_15
+15,centre,0.008702468,Education,AU_15
+15,learn,0.008196947,Education,AU_15
+15,learning,0.008086888,Education,AU_15
+15,close,0.00800358,Education,AU_15
+16,virus,0.035994299,Coronavirus vaccine and protection,AU_16
+16,mask,0.033566337,Coronavirus vaccine and protection,AU_16
+16,vaccine,0.024029199,Coronavirus vaccine and protection,AU_16
+16,drug,0.012387058,Coronavirus vaccine and protection,AU_16
+16,human,0.012091815,Coronavirus vaccine and protection,AU_16
+16,face,0.012087167,Coronavirus vaccine and protection,AU_16
+16,wear,0.010928201,Coronavirus vaccine and protection,AU_16
+16,wear_mask,0.010595376,Coronavirus vaccine and protection,AU_16
+16,disease,0.010434572,Coronavirus vaccine and protection,AU_16
+16,use,0.01021912,Coronavirus vaccine and protection,AU_16
+16,study,0.009908521,Coronavirus vaccine and protection,AU_16
+16,spread,0.008392394,Coronavirus vaccine and protection,AU_16
+16,evidence,0.008366683,Coronavirus vaccine and protection,AU_16
+16,risk,0.008148718,Coronavirus vaccine and protection,AU_16
+16,research,0.008076295,Coronavirus vaccine and protection,AU_16
+16,expert,0.007420952,Coronavirus vaccine and protection,AU_16
+16,trial,0.006785498,Coronavirus vaccine and protection,AU_16
+16,effective,0.006486067,Coronavirus vaccine and protection,AU_16
+16,infection,0.006485052,Coronavirus vaccine and protection,AU_16
+16,find,0.006321357,Coronavirus vaccine and protection,AU_16
+17,food,0.025584061,Panic buying,AU_17
+17,woman,0.025127372,Panic buying,AU_17
+17,store,0.025110004,Panic buying,AU_17
+17,supermarket,0.024669038,Panic buying,AU_17
+17,man,0.017063502,Panic buying,AU_17
+17,item,0.016619191,Panic buying,AU_17
+17,toilet_paper,0.016345877,Panic buying,AU_17
+17,buy,0.014361552,Panic buying,AU_17
+17,customer,0.014068495,Panic buying,AU_17
+17,stock,0.013461257,Panic buying,AU_17
+17,shopper,0.012109032,Panic buying,AU_17
+17,supply,0.011437266,Panic buying,AU_17
+17,grocery,0.010694448,Panic buying,AU_17
+17,product,0.010359352,Panic buying,AU_17
+17,shop,0.00884402,Panic buying,AU_17
+17,limit,0.008102576,Panic buying,AU_17
+17,delivery,0.008007113,Panic buying,AU_17
+17,panic_buying,0.007883988,Panic buying,AU_17
+17,violence,0.007494176,Panic buying,AU_17
+17,shelf,0.007235675,Panic buying,AU_17
+18,police,0.049208444,Policing of social distancing measures,AU_18
+18,fine,0.027300207,Policing of social distancing measures,AU_18
+18,car,0.018474283,Policing of social distancing measures,AU_18
+18,city,0.017226741,Policing of social distancing measures,AU_18
+18,officer,0.013365707,Policing of social distancing measures,AU_18
+18,street,0.010657511,Policing of social distancing measures,AU_18
+18,drive,0.010546151,Policing of social distancing measures,AU_18
+18,driver,0.010408339,Policing of social distancing measures,AU_18
+18,road,0.010259659,Policing of social distancing measures,AU_18
+18,breach,0.009710201,Policing of social distancing measures,AU_18
+18,use,0.009088688,Policing of social distancing measures,AU_18
+18,park,0.008058321,Policing of social distancing measures,AU_18
+18,vehicle,0.007936906,Policing of social distancing measures,AU_18
+18,traffic,0.00730329,Policing of social distancing measures,AU_18
+18,public_transport,0.007215964,Policing of social distancing measures,AU_18
+18,train,0.007046102,Policing of social distancing measures,AU_18
+18,social_distancing,0.006721421,Policing of social distancing measures,AU_18
+18,rule,0.006597218,Policing of social distancing measures,AU_18
+18,clean,0.006559113,Policing of social distancing measures,AU_18
+18,water,0.006334007,Policing of social distancing measures,AU_18
+19,australian,0.050192613,Travel,AU_19
+19,chinese,0.03588248,Travel,AU_19
+19,ship,0.017715381,Travel,AU_19
+19,island,0.013331827,Travel,AU_19
+19,leave,0.012036801,Travel,AU_19
+19,tell,0.011608622,Travel,AU_19
+19,board,0.010365237,Travel,AU_19
+19,passenger,0.010253454,Travel,AU_19
+19,citizen,0.009683176,Travel,AU_19
+19,crew,0.009276142,Travel,AU_19
+19,ban,0.009213435,Travel,AU_19
+19,cruise_ship,0.009057521,Travel,AU_19
+19,hotel,0.00882706,Travel,AU_19
+19,foreign,0.008104888,Travel,AU_19
+19,court,0.007576964,Travel,AU_19
+19,legal,0.006449597,Travel,AU_19
+19,strand,0.006221246,Travel,AU_19
+19,port,0.00576548,Travel,AU_19
+19,quarantine,0.005474054,Travel,AU_19
+19,export,0.005028409,Travel,AU_19
+20,medium,0.018436341,News and media,AU_20
+20,news,0.016098151,News and media,AU_20
+20,write,0.012606833,News and media,AU_20
+20,newspaper,0.009379755,News and media,AU_20
+20,president,0.008455667,News and media,AU_20
+20,post,0.00742989,News and media,AU_20
+20,claim,0.00709291,News and media,AU_20
+20,read,0.006914511,News and media,AU_20
+20,paper,0.006661594,News and media,AU_20
+20,journalist,0.006423582,News and media,AU_20
+20,content,0.005376079,News and media,AU_20
+20,print,0.005375559,News and media,AU_20
+20,advertising,0.005254995,News and media,AU_20
+20,editor,0.005254967,News and media,AU_20
+20,comment,0.005233571,News and media,AU_20
+20,cloud,0.004708609,News and media,AU_20
+20,reveal,0.004692925,News and media,AU_20
+20,title,0.004647492,News and media,AU_20
+20,story,0.004617626,News and media,AU_20
+20,veteran,0.003944549,News and media,AU_20
+21,animal,0.027410079,Animals,AU_21
+21,race,0.02456956,Animals,AU_21
+21,win,0.017269116,Animals,AU_21
+21,food,0.016325764,Animals,AU_21
+21,horse,0.015782615,Animals,AU_21
+21,year,0.014386958,Animals,AU_21
+21,meat,0.012084968,Animals,AU_21
+21,wildlife,0.011425097,Animals,AU_21
+21,market,0.011260884,Animals,AU_21
+21,run,0.010706258,Animals,AU_21
+21,alcohol,0.01003414,Animals,AU_21
+21,bat,0.009255951,Animals,AU_21
+21,ride,0.009107741,Animals,AU_21
+21,drink,0.008815389,Animals,AU_21
+21,racing,0.008449408,Animals,AU_21
+21,dog,0.008214149,Animals,AU_21
+21,trade,0.008160218,Animals,AU_21
+21,eat,0.007863238,Animals,AU_21
+21,human,0.00775505,Animals,AU_21
+21,grow,0.007570127,Animals,AU_21
+22,price,0.060058672,Oil and fuel supply and prices,AU_22
+22,production,0.031459883,Oil and fuel supply and prices,AU_22
+22,oil,0.029933104,Oil and fuel supply and prices,AU_22
+22,produce,0.025516719,Oil and fuel supply and prices,AU_22
+22,supply,0.020282554,Oil and fuel supply and prices,AU_22
+22,energy,0.017801272,Oil and fuel supply and prices,AU_22
+22,producer,0.017392112,Oil and fuel supply and prices,AU_22
+22,demand,0.016258949,Oil and fuel supply and prices,AU_22
+22,export,0.014560728,Oil and fuel supply and prices,AU_22
+22,fuel,0.01358454,Oil and fuel supply and prices,AU_22
+22,product,0.013038325,Oil and fuel supply and prices,AU_22
+22,tonne,0.010684975,Oil and fuel supply and prices,AU_22
+22,import,0.009093722,Oil and fuel supply and prices,AU_22
+22,plant,0.008946065,Oil and fuel supply and prices,AU_22
+22,cheap,0.008792623,Oil and fuel supply and prices,AU_22
+22,gold,0.008416676,Oil and fuel supply and prices,AU_22
+22,barrel,0.007349196,Oil and fuel supply and prices,AU_22
+22,factory,0.007084313,Oil and fuel supply and prices,AU_22
+22,low,0.007010649,Oil and fuel supply and prices,AU_22
+22,power,0.006785583,Oil and fuel supply and prices,AU_22
